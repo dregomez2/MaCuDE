@@ -15,17 +15,21 @@ clname = df['Class Name'].values
 
 # Read finance program's specific info
 financeTerm = pd.read_excel('FinanceUniversityData.xlsx', sheet_name = 'FinanceData')
-financeLevel = financeTerm['Degree Level'].values
-financeTheme = financeTerm['Course Themes'].values
-financeTopic = financeTerm['Digital Topics'].values
-financeLanguage = financeTerm['Programming Language'].values
+financeLevel = financeTerm['Degree Level']
+financeLevel = financeLevel.dropna().tolist()
+financeTheme = financeTerm['Course Themes']
+financeTheme = financeTheme.dropna().tolist()
+financeTopic = financeTerm['Digital Topics']
+financeTopic = financeTopic.dropna().tolist()
+financeLanguage = financeTerm['Programming Language']
+financeLanguage = financeLanguage.dropna().tolist()
 
 def keywordSearch(keyword:list, content:list):
     found=[]
     flag=0
     for each in keyword:
         if str(each).lower() in content:
-            found.append(each.lower())
+            found.append(str(each).lower())
             flag=1
     return flag, found
     
@@ -78,7 +82,7 @@ newdf= df
 newdf = newdf.drop(['Tag', 'Class Name'], axis=1)
 
 newdf['Course Curriculum']= contents
-newdf['Degree Level']=levelFound
+#newdf['Degree Level']=levelFound
 newdf['Course Themes']=themeFound
 newdf['Digital Topics']=topicFound
 newdf['Programming Language']=languageFound
