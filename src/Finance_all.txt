@@ -1,0 +1,1089 @@
+MBA Course Descriptions
+FNCE611 - CORPORATE FINANCE 
+(Course Syllabus)
+  This course serves as an introduction to business finance (corporate financial management and investments) for both non-majors and majors preparing for upper-level course work. The primary objective is to provide the framework, concepts, and tools for analyzing financial decisions based on fundamental principles of modern financial theory. The approach is rigorous and analytical. Topics covered include discounted cash flow techniques; corporate capital budgeting and valuation; investment decisions under uncertainty; capital asset pricing; options; and market efficiency. The course will also analyze corporate financial policy, including capital structure, cost of capital, dividend policy, and related issues. Additional topics will differ according to individual instructors. 
+FNCE613 - MACROECN & GLOBAL ECONOM 
+(Course Syllabus)
+  This course is required for all students except those who, having prior training in macroeconomics, money and banking, and stabilization policy at an intermediate or advanced level, can obtain a waiver by passing an examination. The purpose of the course is to train students to think systematically about the current state of the economy and macroeconomic policy, and to be able to evaluate the economic environment within which business and financial decisions are made. The course emphasizes the use of economic theory to understand the workings of financial markets and the operation and impact of government policies. We will study the determinants of the level of national income, employment, investment, interest rates, the supply of money, inflation, exchange rates, and the formulation and operation of stabilization policies. 
+FNCE621 - CORPORATE FNCE (HALF CU)
+  (Formerly FNCE 614) This half-semester course serves as an introduction to corporate investments for non-majors. The primary objective is to provide a framework, concepts, and tools for analyzing financial decisions based on fundamental principles of modern financial theory. Topics covered include discounted cash flow techniques, corporate capital budgeting and valuation, investment decisions under uncertainty, and capital asset pricing. The approach is rigorous and analytical but the course will not cover several topics included in the full semester Corporate Finance course, including: market efficiency, corporate financial policy (including capital structure, cost of capital, dividend policy, and related issues), and options. 
+Prerequisites: (ACCT 611 OR ACCT 612 OR ACCT 613) AND (MGEC 611 AND MGEC 612) AND (STAT 613 ORSTAT 621) 
+FNCE623 - MACROECONOMICS (HALF CU)
+  (Formerly FNCE 615) This half-semester course in Macroeconomics is intended fornon-finance majors. The goal of this course is to provide the foundation needed to recognize and understand broad economic and financial movements in the global economy. Key topics include national income accounting, production and economic growth, employment, business cycles, monetary and fiscal policy, and international finance. By the end of this course, students will be able to evaluate and discuss the global economic environment in which business and financial decisions are made. 
+Prerequisites: FNCE 611 
+FNCE717 - FINANCIAL DERIVATIVES 
+(Course Syllabus)
+  This course covers one of the most exciting yet fundamental areas in finance: derivative securities. Financial derivatives can be the most challenging and exotic securities traded by institutional specialists, while at the same time, they can also be the basic securities commonly traded by retail investors such as S&P Index Options, Beyond trading, the basic ideas of financial derivatives serve as building blocks to understand a much broader class of financial problems, such as complex asset portfolios, strategic corporate decisions, and stages in venture capital investing. The main objective of this course is to help students gain the intuition and skills on (1) pricing and hedging of derivative securities, and (2) using derivatives for investment and risk management. In terms of methodologies, we apply the non-arbitrage principle and the law of one price to dynamic models through three different approaches: the binomial tree model, the Black-Scholes-Merton option pricing model, and the simulation-based risk neutral pricing approach. We discuss a wide range   of applications, including the use of derivatives in asset management, the valuation of corporate securities such as stocks and corporate bonds with embedded options, interest rate derivatives, credit derivatives, as well as crude oil derivatives. In addition to theoretical discussions, we also emphasize practical considerations of implementing strategies using derivatives as tools, especially when no-arbitrage conditions do not hold. In addition to prerequisites, STAT 613 may be taken concurrently. 
+Prerequisites: FNCE 611 
+FNCE719 - INTL FINANCIAL MARKETS 
+(Course Syllabus)
+  This course covers topics on foreign exchange rates, international money markets, currency and interest rate derivatives (forwards, options, and swaps), international stock and bond portfolios, and cryptocurrencies. Students learn about the features of financial instruments and the motivations of market participants. The class focuses on risk management, investing, and arbitrage relations in these markets. In addition to prerequisites, FNCE 613 is recommended but not required. 
+Prerequisites: FNCE 611 
+FNCE720 - INVESTMENT MANAGEMENT 
+(Course Syllabus)
+  This course studies the concepts and evidence relevant to the management of investment portfolios. Topics include diversification, asset allocation, portfolio optimization, factor models, the relation between risk and return, trading, passive (e.g., index-fund) and active (e.g., hedge-fund, long-short) strategies, mutual funds, perfermance evaluation, long-horizon investing and simulation. The course deals very little with individual security valuation and discretionary investing (i.e., "equity research" or "stock picking"). 
+Prerequisites: FNCE 611 AND (STAT 613 OR STAT 621) 
+FNCE721 - REAL ESTATE INVESTMENTS 
+(Course Syllabus)
+  This course provides an introduction to real estate with a focus on investment and financing issues. Project evaluation, financing strategies, investment decision making and capital markets are covered. No prior knowledge of the industry is required, but students are expected to rapidly acquire a working knowledge of real estate markets. Classes are conducted in a standard lecture format with discussion required. The course contains cases that help students evaluate the impact of more complex financing and capital markets tools used in real estate. Lecture with discussion required. 
+Prerequisites: FNCE 611 
+FNCE725 - FIXED INCOME SECURITIES 
+(Course Syllabus)
+  This course covers fixed income securities (including fixed income derivatives) and provides an introduction to the markets in which they are traded, as well as to the tools that are used to value these securities and to assess and manage their risk. Quantitative models play a key role in the valuation and risk management of these securities. In addition to course prerequisites, FNCE 613 is recommended but not required. 
+Prerequisites: FNCE 611 AND (STAT 613 OR STAT 621) 
+FNCE726 - ADVANCED CORP FINANCE 
+(Course Syllabus)
+  The objective of this course is to study the major decision-making areas of managerial finance and some selected topics in financial theory. The course reviews the theory and empirical evidence related to the investment and financing policies of the firm and attempts to develop decision-making ability in these areas. This course serves as an extension of FNCE 611. Some areas of financial management not covered in FNCE 611 are covered in FNCE 726. These may include leasing, mergers and acquisitions, corporate reorganizations, financial planning, and working capital management, and some other selected topics. Other areas that are covered in FNCE 611 are covered more in depth and more rigorously in FNCE 726. These include investment decision making under uncertainty, cost of capital, capital structure, pricing of selected financial instruments and corporate liabilities, and dividend policy. 
+Prerequisites: FNCE 611 
+FNCE728 - VALUATION 
+(Course Syllabus)
+  The focus of this course is on the valuation of companies. The course covers current conceptual and theoretical valuation frameworks and translates those frameworks into practical approaches for valuing companies. The relevant accounting topics and the appropriate finance theory are integrated to show how to implement the valuation frameworks discussed on a step-by-step basis. The course teaches how to develop the required information for valuing companies from financial statements and other information sources in a real-world setting. Topics covered in depth include discounted cash flow techniques and price multiples. In addition, the course covers other valuation techniques such as leveraged buyout analysis. In addition to prerequisites, ACCT 742 is recommended but not required. 
+Prerequisites: FNCE 611 AND (ACCT 611 OR 613) AND (STAT 613 OR STAT 621) 
+FNCE730 - URBAN FISCAL POLICY 
+(Course Syllabus)
+  This course will examine the provision of public services for firms and people through cities. Why cities exist, when fiscal policy fails, investments in infrastructure, realities of local governments such as inequality, crime, corruption, high cost of living, congestion, and unfunded pensions and debt, will be covered. We will pay special attention to recent topics, such as partnerships with the private sector, enterprise zones, the role of technology, environmental challenges, and real estate policies that promote housing affordability, such as rent control and inclusionary zoning. 
+FNCE731 - INTERNATL CORP FINANCE 
+(Course Syllabus)
+  This course analyzes financial problems corporations face that result from operating in an international environment. Major topics covered are corporate strategy and the decision to invest abroad, international portfolio diversification, managing exchange risk, taxation issues, cost of capital and financial structure in the multinational firm, and sources of financing. 
+Prerequisites: FNCE 611 
+FNCE732 - INTERNATIONAL BANKING 
+(Course Syllabus)
+  This course focuses on international financial institutions, especially the activities of global, systemically important banks. We will examine how current and historical events are reshaping the industry and highlight the basic analytics of managing a bank's exposure to liquidity, credit, market and reputational risk. Most classes will begin with discussion of a current event related to course topics. Team projects will give deeper exposure to analytic techniques related to the course. Throughout the semester, we will discuss public policy issues facing the international financial system. In addition to prerequisites, FNCE 613 may be taken concurrently. 
+Prerequisites: FNCE 611 
+FNCE737 - DATA SCIENCE FOR FINANCE
+  This course will introduce students to data science for financial applications using the Python programming language and its ecosystem of packages (e.g., Dask, Matplotlib, Numpy, Numba, Pandas, SciPy, Scikit-Learn, StatsModels). To do so, students will investigate a variety of empirical questions from different areas within finance by way of data labs, or case studies that rely on data and analytics. Some of the areas that may be covered in the course, subject to time constraints, include: FinTech, investment management, corporate finance, corporate governance, venture capital, private equity. The course will highlight how big data and data analytics shape the way finance is practiced. Some programming and experience is helpful though knowledge of Python is not assumed. 
+Prerequisites: FNCE 611 
+FNCE738 - CAPITAL MARKETS 
+(Course Syllabus)
+  The objective of this course is to give you a broad understanding of the instruments traded in modern financial markets, the mechanisms that facilitate their trading and issuance, as well as, the motivations of issuers and investors across different asset classes. The course will balance functional and institutional perspectives by highlighting the problems capital markets participants are seeking to solve, as well as, the existing assets and markets which have arisen to accomplish these goals. We will consider design, issuance, and pricing of financial instruments, the arbitrage strategies which keep their prices in-line with one another, and the associated economic and financial stability issues. The course is taught in lecture format, and illustrates key concepts by drawing on a collection of case studies and visits from industry experts. In addition to prerequisites, FNCE 613 may be taken concurrently. 
+Prerequisites: FNCE 611 
+FNCE750 - VENT CAP & FNCE INNOVAT 
+(Course Syllabus)
+  This course covers the finance of technological innovation, with a focus on the valuation tools useful in the venture capital industry. These tools include the "venture capital method," comparables analysis, discounted cash flow analysis, contingent-claims analysis. The primary audience for this course is finance majors interested in careers in venture capital or in R&D-intensive companies in health care or information technology. 
+Prerequisites: FNCE 611 
+FNCE751 - FNCE OF BUYOUTS & ACQS 
+(Course Syllabus)
+  The focus of this course is on buying (or acquiring controlling stakes in) firms. The main topics to be covered are mergers and friendly acquisitions, hostile takeovers and buyouts. Using case studies, the course surveys the drivers of success in the transactions. While issues regarding motive and strategy will be discussed, financial theory would be the main lens used to view these control acquiring transactions. This will allow students to (1) evaluate transactions through valuation approaches and (2) structure deals employing financial innovation as a response to legal framework and economic frictions. This course should be of interest to students interested in pursuing careers as private equity investors, advisors in investment banking and corporate managers that deal with these issues. This course assumes familiarity with valuation analysis. During the spring semester students are not permitted to take this course pass fail. In addition to prerequisites, FNCE 726 or 728 are recommended but not required. 
+Prerequisites: FNCE 611 
+FNCE754 - IMPACT INVESTING 
+(Course Syllabus)
+  This course explores Impact Investing, a discipline that seeks to generate social benefits as well as financial returns. From tiny beginnings, the Impact Investment space has expanded and now commands significant attention from policymakers, wealthy and public-spirited individuals, academia and, not least, the world's largest asset managers and philanthropic foundations. Evangelists believe it may be the key to freeing the world from poverty. Skeptics think it will remain confined to the boutique. Regardless, Impact Investing is becoming a distinct career specialization for finance professionals despite the diverse skillset each must have and the uncertainty of the new field's growth. In addition to prerequisites, FNCE 720 is recommended but not required. 
+Prerequisites: FNCE 611 
+FNCE756 - ENERGY FINANCE 
+(Course Syllabus)
+  The objective of this course is to provide students with detailed knowledge of corporate structures, valuation methods, project finance, risk management practices, corporate governance issues, and geo-political risks in the energy industry. In general, this course seeks to provide students with an overall context for understanding energy issues and risks, and how these might affect financing and investment decisions for both providers of energy and end-users of energy. In addition to prerequisites, FNCE 726 and FNCE 728 are recommended but not required. 
+Prerequisites: FNCE 611 
+FNCE757 - FOUNDATION ASSET PRICING
+  This course will cover methods and topics that form the foundations of modern as- set pricing. These include: investment decisions under uncertainty, mean-variance theory, capital market equilibrium, arbitrage pricing theory, state prices, dynamic programming, and risk-neutral valuation as applied to option prices and fixed-income securities. Upon completion of this course, students should acquire a clear under-standing of the major principles concerning individuals' portfolio decisions under uncertainty and the valuations of financial securities. In addition one of the following is recommended FNCE 205; BEPP 250; MATH 360; STAT 433 
+Prerequisites: FNCE 611 
+FNCE783 - STRATEGIC EQUITY FINANCE 
+(Course Syllabus)
+  This half-semester course combines lectures and cases, and will go through actual situation where companies need to make strategic decisions on raising equity capital. We will address different phases of a company's life cycle. Through these cases, from the decision-makers perspective, we will explore the different paths that can be taken and consider issues such as investor activism, governance and regulatory and valuation impact. 
+Prerequisites: FNCE 611 
+FNCE785 - BUSINESS STRATEGY & CORP 
+(Course Syllabus)
+  This course explores strategic, business and legal decision making in a fluid real world corporate context. Classes will cover a series of timely financial and legal subjects as well as case studies that deal with topical problems in corporate governance, investment strategy, finance, private equity, executive compensation, and potential corporate and criminal behavior. Press, public market reaction, and governmental/political considerations will be integrated into the discussion. All students will be required to participate in one major and two minor team projects. An equal number of graduate law and business students will be enrolled in this class. The instructor, a 30 year veteran and partner at a major private equity firm, is also an attorney and CPA. No prerequisites. 
+FNCE791 - CORPORATE RESTRUCTURING 
+(Course Syllabus)
+  This course will explore the highly active and sophisticated deal making environment that is the hallmark of modern distress corporate restructuring. The course is primarily comprised of two key components. The first is groundwork-laying lectures by three of the top practitioners in the restructuring field. In particular, the lectures will focus on fundamental rights and obligations of debtors, creditors, and other parties in interest in the various types of major chapter 11 cases, providing critical insight into understanding the motivations, strategies, and available tools for chapter 11 participants (which also serve as the foundation for out-of-court deals). The course also will provide a valuation framework for distressed assets. The second element of the course is a series of case study panels. The professors survey the market trends from the previous year bring together key participantsfrom recent deals, including the CEO or chairman of the company, the judge, the lead banker and lead lawyer, and the lead investors to give their insight and perspectives to the class. These panels will provide students real-world insights into the most current issues in the field. By Video application only. send a short 30 second to 1 minute video why you want to take this course. The video must go to Kyle.Ferrier@Kirkland.com by 8-1-19 
+FNCE801 - ADVANCED TOPICS IN PE
+  (Formerly FNCE 884) This course will address a variety of applied topics in private equity (PE), with a focus on growth and later-stage buyout transactions (venture capital is not explicitly addressed in this course), and a primarily U.S.-centric view that should be largely applicable in other markets. In addition, the course will focus on the transaction stage of PE investing i.e., the art of the deal and mostly leave aside deal sourcing, portfolio management and investor relations. The goal of this course is to educate students about the substance, process and mechanics of PE investing, through the lens of the investment professionals, counterparties and advisors that drive transactions to completion. Course topics will address the entire deal process, and will include the following: Commercial Diligence (incl. financial modeling); Debt Financing; Accounting Diligence; Sales & Purchase Agreements; Comps Analysis; and Other Advisory Work. Throughout the course, students will learn about each element of the deal process through in-class lectures, while concurrently apply those learnings to a real-time mock deal, and preparing deal materials that mirror a real private equity transaction. The in-class lectures will cover both conceptual frameworks and real-world examples. 
+Prerequisites: FNCE 611 AND (FNCE 726 OR FNCE 751) 
+FNCE803 - BEHAVIORAL FINANCE
+  (Formerly FNCE 739) There is an abundance of evidence suggesting that the standard economic paradigm - rational agents in an efficient market - does not adequately describe behavior in financial markets. In this course, we will survey the evidence and use psychology to guide alternative theories of financial markets. Along the way, we will address the standard argument that smart, profit-seeing agents can correct any distortions caused by irrational investors. Further, we will examine more closely the preferences and trading decisions of individual investors. We will argue that their systematic biases can aggregate into observed market inefficiencies. The second half of the course extends the analysis to corporate decision making. We then explore the evidence for both views in the context of capital structure, investment, dividend, and merger decisions. In addition to prerequisites, FNCE 720 and FNCE 726 are recommended but not required. 
+Prerequisites: FNCE 611 
+FNCE811 - ASP INFRASTRUCTURE INVES 
+(Course Syllabus)
+  The world economy runs on the infrastructure which has been built over the past10,000 years. Each year, this infrastructure requires updating and new additions, from roads and bridges (the original infrastructure), to railroads, airports (the more recent infrastructure), to telecommications and solar and wind power installations (modern infrastructure). There is a vast amount of public (i.e., taxpayer money directed by government officials) and private (i.e., individuals' money typically managed on their behalf and directed by private equity or banks into infrastructure investments). In this course, we will cover Infrastucture Financing and investing from various angles. We will provide descriptions of types of infrastructure, examine the financing needs of infrastructure projects, consider the historic role of government and non-government funding, and assess the changing needs of consumers and role of technology and the increasing demands posed by a globalizing economy. As private equity firms continue to build infrastructure funds, the need for, and role for, private money continues to evolve, so we will also examine infrastructure investing as a alternative asset class from the investors' perspective. FNCE 728 is recommended but not required. 
+Prerequisites: FNCE 611 
+FNCE812 - FNCE ECON LAW FISCAL CR 
+(Course Syllabus)
+  The focus will be on the causes of fiscal crises, a careful detailing of who wins and who loses, and then on how such crises might be resolved and, perhaps most importantly, how they might be prevented in the future. The course will draw upon the fiscal experiences of US local governments (New York, Philadelphia, Detroit, Orange County, Puerto Rico), utilities (WPPSS) and states (Illinois), and the international experience from such countries as Greece, Brazil, and Argentina. The costs of such crises for citizens, pensioners, and bond holders can be significant. We seek to understand the underlying economic, political, and legal/regulatory causes of such events so that they may be prevented in the future. The importance of private information and public regulation for disciplining the fiscal performance of democratically elected governments will be a central concern. We believe strongly that diagnosing and treating the "disease" of fiscal mismanagement is an interdisciplinary endeavor drawing on finance, economics, political science, and the law. Students with backgrounds in any of these disciplines are welcome. 
+FNCE841 - ASP DISTRESSED INVESTING 
+(Course Syllabus)
+  This course familiarizes students with financial, strategic and legal issues associated with the restructuring of financally distressed firms and investment in distressed securities. The objective is to give students the concepts and tools necessary to assess the often-complex situation facing a firm facing financial distress. The participants will gain a basic understanding of the various options available for distressed firms, such as out-of-court workouts, exchange offers, prepackaged and pre-negotiated, bankruptcies, distressed asset sales, 363 auctions, and Chapter 11 reorganization. We will explore the difference between economic and financial distress, and the implications for the restructuring process. Finally, we will consider distressed debt as an asset class and develop techniques for investing in distressed securities. We will approach the investment opportunities using the concepts of value investing, in which we sharply distinguish the value of an asset from its price (as Warren Buffet explains, "Price is what you pay, value is what you get") Students will sharpen their conceptual knowledge of finance and valuation in order to properly estimate the value of a distressed firm, and then supplement that with the complexities of valuing specific securities with the capital structure. 
+Prerequisites: FNCE 611 
+FNCE883 - STRATEGIC EQUITY FINANCE 
+(Course Syllabus)
+  Strategic Equity Finance has a new course number effective 19A This course is listed as FNCE783 going forward 
+Prerequisites: FNCE 611 
+FNCE885 - ASP - FIN-TECH 
+(Course Syllabus)
+  The course exposes students to this fast-growing and exciting intersection between finance (Fin) and technology (Tech) while emphasizing the role data and analytics play. The course is structured around three main FinTech areas: (i) Lending/Banking services, (ii) Clearing (iii) Trading. It provides specific coverage and examples of developments from(1) market-place lending, (2) blockchain and distributed ledgers, (3) quantitative trading and its use of non-standard inputs. In each of these areas, we start by analyzing the marketplace, the incumbents, and then proceed to alalyze the impact of the most relevant technologies have on the business. The course is built around data/code examples, cases, guest lectures, and group projects. Student are thus expected to work in teams and demonstrate a high level of independent learning and initiative. 
+Prerequisites: FNCE 611 
+FNCE886 - ASP - HEDGE FUNDS
+  This course will cover critical aspects and characteristics of hedge funds and the hedge fund industry. It will look at the legal foundations and structures of hedge funds including the primary regulations in the U.S. and abroad that are most relevant for hedge funds. It will also present the major hedge fund strategies, describe operation, control, administration, due diligence and valuation issues. Performance evaluation and investing in hedge funds from the investor's perspective will be discussed as will be issues of potential changes in regulation, risk management, and the use of leverage.   The format of the course will mix lectures with presentations from industry participants, hedge fund managers, those who invest in hedge funds, those who advise them and provide services to them, and those who regulate them. Those who want to launch a hedge fund, join an existing one, invest in one, or provide services to one will want to register for this course. 
+Prerequisites: FNCE 611 
+FNCE887 - ASP-SHAREHOLDER ACTIVISM 
+(Course Syllabus)
+  The aim of the course is to provide an introduction to shareholder activism. The course makes use of lectures and case studies. The lectures expose the students to the institutional and empirical facts as well as approaches followed by leading shareholder activists. The case studies are designed to provide students an experience on identifying potential opportunity for value creation thrugh active engagement. Assignments require students to develop/practice skills on fundamental analysis. 
+Prerequisites: FNCE 611 
+FNCE888 - PE EQUITY: FUNDRAISING 
+(Course Syllabus)
+  This course is for second year MBA students. Please Note: Students cannot receive credit for both FNCE 884 and FNCE 888.....This course will address a variety of topics in private equity (PE) leveraging a highly practical and real-world approach. It will focus on growth and later-stage buyout transactions (venture capital is not explicitly addressed in this course), and a primarily U.S.-centric view that should be largely applicable in other markets. The course will focus on several key areas outside the private equity transaction: fundraising, sourcing investment opportunities, and creating value under PE ownership. The goal of this course is to educate students about these aspects of PE investing through the lens of the investment professionals, consultants, counterparties and advisors that live them each day. Students will be expected to actively engage in classroom discussions, challenging one another and the lecturers about how to think through these issues in an ever-evolving investment world. In addition, throughout the course, students will be expected participate actively with their teams as they proceed with at home assignments. 
+Prerequisites: FNCE 751 
+FNCE893 - ASP BANKS, MACRO, MARKET 
+(Course Syllabus)
+  This course aims to provide the future global manager and financial analyst with the knowledge on policies set by central banks, regulators and governments to reach the goals of price and financial stability as well as support of growth and employment. The core of the course connects between the formal and actual goals that central banks follow and the related economic analysis on which the goals and the policies are set. We will explain the economic rationale for the policy prescriptions to reach the goals and how these are implemented using institutional framework in the US, the European Central Bank (ECB), Israel and remarks on other countries. We use data, current events and events of the 2007-2018 financial crisis as a basis for discussion and assignments. All these are aimed at understanding how and why the Federal Reserve of the US (the Fed), The Bank of Israel (BOI) and the European Central Bank (ECB) set their policies and how that is related to academic research on these issues. 
+Prerequisites: FNCE 613 AND STAT 613 
+FNCE895 - ASP PRIVATE EQUITY
+  This course will be a survey of the private equity asset class. Its objective is to provide an understanding of the concepts, agents, and institutions involved in the late stage corporate private equity market in the U.S. and around the globe. It will examine the buyout market and the activities of buyout funds from the differing perspectives of private equity investors, private equity fund sponsors, and managers of the portfolio companies. The course will be taught almost entirely with cases. Distinguished Wharton alumni in the private equity industry will be our guest speakers for many of the cases based on transactions they concluded. While this course is primarily intended for graduate students, admission may be granted to a limited number of interested undergraduate students. PLEASE NOTE: this course may be recorded for live or subsequent distribution, display, broadcast, or commercialization in any media, including video, audio, or electronic media. For additional information, see the course syllabus or contact the department. This is a Pass/Fail course and will not count towards your concentration. 
+Prerequisites: FNCE 726 OR FNCE 751 
+FNCE896 - GLOBAL MODULAR COURSE 
+(Course Syllabus)
+  Open to MBA, Executive MBA and Undergraduate students, these modular courses are intended to provide unique educational experiences to students in a regional context that has particular resonance with the topic. Taught around the globe, the modular courses help us enrich the curriculum and research on our own campuses in Philadelphia and San Francisco. 
+FNCE897 - FNCE IN MID EAST & N AFR
+  This is a Wharton Global Modular Course on finance in the Middle East and North Africa. Its objective is to bring students, academics and industry experts together to study financial markets, practice, and institutions in this region. 
+FNCE899 - INDEPENDENT STUDY
+  Independent Study Projects require extensive independent work and a considerable amount of writing. ISP in Finance are intended to give students the opportunity to study a particular topic in Finance in greater depth than is covered in the curriculum. The application for ISP's should outline a plan of study that requires at least as much work as a typical course in the Finance Department that meets twice a week. Applications for FNCE 899 ISP's will not be accepted after the THIRD WEEK OF THE SEMESTER. ISP's must be supervised by a Standing Faculty member of the Finance Department. 
+Prerequisites: FNCE 611 AND FNCE 613 
+Finance (FINANCE)
+FINANCE 121.  Undergraduate Finance Research and Discussion Seminar.  1 Unit.
+
+This seminar is designed to provide some experience with research methods and topics in finance, and to assist undergraduates with career interests in financial research, whether academic or not, with preparation for those careers. The seminar meetings are weekly and discussion based, covering a range of issues and methods in financial economics. Students are expected to prepare a 30-minute research presentation once during the quarter. To be considered for enrollment in this course, please complete and submit this short application by December 3, 2019, 11:59pm PST. Accepted students will be notified on December 7, 2019 by 6:00pm. Link to application: https://forms.gle/8nsGPBV6rCMAF1of9.
+FINANCE 201.  Finance.  3 Units.
+
+This course covers the foundations of finance with an emphasis on applications that are vital for corporate managers. We will discuss many of the major financial decisions made by corporate managers, both within the firm and in their interactions with investors. Essential in most of these decisions is the process of valuation, which will be an important emphasis of the course. Topics include criteria for making investment decisions, valuation of financial assets and liabilities, relationships between risk and return, capital structure choice, payout policy, the use and valuation of derivative securities, and risk management. This course is targeted to those students who are new to finance and for those with little quantitative background.
+FINANCE 204.  Finance - Accelerated.  3 Units.
+
+This course covers the foundations of finance with an emphasis on applications that are vital for corporate managers. We will discuss many of the major financial decisions made by corporate managers, both within the firm and in their interactions with investors. Essential in most of these decisions is the process of valuation, which will be an important emphasis of the course. Topics include criteria for making investment decisions, valuation of financial assets and liabilities, relationships between risk and return, capital structure choice, the use and valuation of derivative securities (e.g., options and convertible securities), and risk management.No previous background in finance is required or expected, but in comparison with FINANCE 201, less time will be spent in class on the steps involved in solving basic problems. Therefore, students choosing this course should be relatively comfortable with basic mathematical operations (e.g., expressions involving multiplication of multiple terms, summation of multiple terms, etc.), though familiarity with the underlying finance concepts is not expected. A good diagnostic is to skim Section 4.2 "Rules for Time Travel" (pp. 98-104) in the course textbook, Corporate Finance by Berk and DeMarzo. If you are comfortable with the level of basic mathematics involved (even if the concepts are new), 204 is a good choice. If not, you should consider FINANCE 201.
+FINANCE 205.  Accelerated Managerial Finance.  3 Units.
+
+This course covers the foundations of finance with an emphasis on applications that are vital for corporate managers. We will discuss many of the major financial decisions made by corporate managers, both within the firm and in their interactions with investors. Essential in most of these decisions is the process of valuation, which will be an important emphasis of the course. Topics include criteria for making investment decisions, valuation of financial assets and liabilities, relationships between risk and return, capital structure choice, payout policy, the use and valuation of derivative securities, and risk management. This course is targeted to those students who are new to finance and for those with little quantitative background.No previous background in finance is required or expected for this course. Content will be comparable to F201, but the majority of course lecture material will be delivered online, with in-class sessions devoted to applications of key concepts. This "flipped classroom" version of the course is intended for self-motivated students with an interest in applications. Prerequisite material for the course will be posted online in the fall.
+FINANCE 207.  Corporations, Finance, and Governance in the Global Economy.  3 Units.
+
+As entrepreneurs, global leaders, and change agents tasked with developing transformative solutions of tomorrow, you will need certain skills and tools to interact with and navigate the complex and ever-changing financial landscape. This course focuses on the development of these skills and tools through the analysis of concise real-world financial situations around the globe. Topics include valuation of cash flows and control; the capital structure, payout policy and governance of both mature and entrepreneurial firms; restructuring and managing financial distress; the use of public markets to obtain liquidity and multiple share classes to retain control; financing and governance in venture capital and private equity; the rise of activism; and social responsibility and debates about the objectives of the firms of the present and future. This course is taught jointly by Professors Rauh and Seru.
+FINANCE 211.  Corporate Finance: Applications, Techniques, and Models.  3 Units.
+
+This course will develop and apply the basic tools and models of corporate finance to real-world corporate decisions. This course is designed to be the second course in the standard finance sequence; that is, it is designed to be the natural follow-up to the Winter Managerial Finance course. This course will develop and extend standard tools and techniques of financial analysis, valuation, and model-building, and apply these methods to a wide range of cases. Case topics will include mergers and acquisitions, private equity, corporate governance, capital structure, agency conflicts, and corporate restructuring. For all of these applications, this course will emphasize the central importance of financial analysis, valuation, and modeling to guiding optimal decision making.
+FINANCE 214.  Accelerated Corporate Finance: Applications, Techniques, and Models.  3 Units.
+
+This course will develop and apply the basic tools and models of corporate finance to real-world corporate decisions. This course is designed to be the second course in the standard finance sequence; that is, it is designed to be the natural follow-up to the Winter Managerial Finance course. This course will develop and extend standard tools and techniques of financial analysis, valuation, and model-building, and apply these methods to a wide range of cases. Case topics will include mergers and acquisitions, private equity, corporate governance, capital structure, agency conflicts, and corporate restructuring. For all of these applications, this course will emphasize the central importance of financial analysis, valuation, and modeling to guiding optimal decision making.
+FINANCE 229.  MSx: Finance.  3 Units.
+
+This course covers the foundations of finance with an emphasis on applications that are vital for corporate managers. We will consider many important financial decisions made by corporate managers, both within the firm and in their interactions with investors. Essential to most of these decisions are financial valuations, which will be an important emphasis of the course. Topics include criteria for making investment decisions, valuation of financial assets and liabilities, relationships between risk and return, and capital structure choice.
+FINANCE 305.  Capital Markets and Institutional Investing.  3 Units.
+
+This course teaches recent advances in asset allocation and management. We emphasize the practical implementation of asset allocation and management tools in allocating assets, selecting asset managers and managing risk. The course focuses on alternative asset classes. Students apply these tools to real-time data in the computer lab. Topics covered include Asset Allocation; Delegated Asset Management and Manager Selection applied to Mutual Funds, Hedge Funds and Private Equity Funds; Multi-factor models and Factor Investing. The class will be co-taught by Ana Marshall, the CIO of the Hewlett Foundation, and Hanno Lustig, who is on the Allocation Advisory Board of the NBIM.
+FINANCE 306.  International Finance and Macroeconomics.  3 Units.
+
+An introduction to the global economy. We will cover a number of important topics for firms, banks, and policy makers: global capital flows, international financial markets, the role of the U.S. and US dollar in the international monetary system, reserve currencies history and future (stable coins?), exchange rates (floating, fixed, and monetary unions), financial crises, international financial policy (capital controls, bank regulation, FX intervention), currency wars, tax havens and global wealth dynamics, global trade, and trade wars. Emphasis will be on data driven approaches, no prior knowledge is assumed. An MBA class designed for those looking to understand today's global economic issues.
+FINANCE 315.  Innovating for Financial Inclusion.  3 Units.
+
+This MBA elective explores innovative ways that start-ups are expanding the financial capacities of households and small businesses. What are the financial frictions that household/business facing impactful FinTech startups are addressing? What economic and behavioral forces are governing the successes of these startups? How is the choice of funding/business model impacting growth/scaling strategies? How is the competitive landscape evolving for traditional banks, established tech platforms, and FinTech startups? While the center of attention will be on disruption of financial services within the US legal and regulatory environments, we will frequently highlight recent innovations in Asia, Europe, and Latin America.
+FINANCE 319.  Private Equity Investing Seminar.  3 Units.
+
+The Investments courses comprise an intensive overview of active fundamental investing in both the public and private equity markets. They are relevant for students who intend to pursue careers in private or public equity investing, as well as those who want to better understand investing from the perspective of an entrepreneur or individual. The vast majority of sessions will feature an outstanding investor guest lecturer. Previous guests included Andreas Halvorsen (Viking Global), Jim Coulter (TPG), Hadley Mullen (TSG Consumer Partners), Ryan Cotton (Bain Capital), Bill Oberndorf (SPO Partners) and Tim Bliss (Investment Group of Santa Barbara), and this year's lineup will be substantially similar. Established and taught for 50 years by the legendary Professor Jack McDonald, the Investments courses will be taught by John Hurley, founder of Cavalry Asset Management and Professor Steve Grenadier in Autumn 2019. Students are required to take F319 and F321 concurrently for 5 total units during the Autumn Quarter. F321 is a 2-unit compressed course that meets MWF from 2:30-5:30pm during Weeks 1 and 8 of the quarter. It addresses real-world applications of business analysis and valuation tools and teaches the skills necessary to evaluate investment opportunities. F319 is a 3-unit course that meets Tu/Th 12:40-2:00 PM throughout the quarter. Students delve into specific topics in private equity, venture capital, hedge funds, mutual funds and principal investing. Students can elect to take F319 graded or pass/fail. The Investments courses will make use of original case studies and teaching notes authored by the late Professor Jack McDonald and a team of course alumni from prior MBA classes. Case discussions and lecture discussions will be led by the teaching team and investors/principals who were involved. The Investments courses enable MBA students to learn a broad investing skillset and study the careers of outstanding investors.
+FINANCE 320.  Debt Markets.  3 Units.
+
+This course is intended for those who plan careers that may involve debt financing for their businesses or other investments, or involve trading or investing in debt instruments and their derivatives, including money-market instruments, government bonds, repurchase agreements, interest-rate swaps, mortgage-backed securities (MBS), corporate bonds, structured credit products, and credit derivatives. We will emphasize the institutional features of the markets, including trading, pricing, and hedging. There is a special focus on distressed debt. Most lectures will start with a cold-called student presentation of an un-graded short homework calculation. There will also be a series of graded homework, a take-home mid-term, and about seven graded 'pop quizzes' of 10 minutes or less.
+FINANCE 321.  Investment Management and Entrepreneurial Finance.  2 Units.
+
+The Investments courses comprise an intensive overview of active fundamental investing in both the public and private equity markets. They are relevant for students who intend to pursue careers in private or public equity investing, as well as those who want to better understand investing from the perspective of an entrepreneur or individual. The vast majority of sessions will feature an outstanding investor guest lecturer. Previous guests included Andreas Halvorsen (Viking Global), Jim Coulter (TPG), Hadley Mullen (TSG Consumer Partners), Ryan Cotton (Bain Capital), Bill Oberndorf (SPO Partners) and Tim Bliss (Investment Group of Santa Barbara), and this year's lineup will be substantially similar. Established and taught for 50 years by the legendary Professor Jack McDonald, the Investments courses will be taught by John Hurley, founder of Cavalry Asset Management and Professor Steve Grenadier in Autumn 2019. Students are required to take F319 and F321 concurrently for 5 total units during the Autumn Quarter. F321 is a 2-unit compressed course that meets MWF from 2:30-5:30pm during Weeks 1 and 8 of the quarter. It addresses real-world applications of business analysis and valuation tools and teaches the skills necessary to evaluate investment opportunities. F319 is a 3-unit course that meets Tu/Th 12:40-2:00 PM throughout the quarter. Students delve into specific topics in private equity, venture capital, hedge funds, mutual funds and principal investing. Students can elect to take F319 graded or pass/fail. The Investments courses will make use of original case studies and teaching notes authored by the late Professor Jack McDonald and a team of course alumni from prior MBA classes. Case discussions and lecture discussions will be led by the teaching team and investors/principals who were involved. The Investments courses enable MBA students to learn a broad investing skillset and study the careers of outstanding investors.
+FINANCE 326.  Derivative Securities.  4 Units.
+
+This course is an introduction to options, futures and other derivative securities. The goal is to learn a core set of principles that underlie the pricing and use of derivatives. In particular, we will cover the valuation and use, both for risk management and for speculation, of forwards, futures, swaps, and options; the Black-Scholes option-pricing formula; delta-hedging; credit derivatives; financial risk management; and the role of derivatives in the recent financial crisis.
+FINANCE 327.  Financial Markets.  4 Units.
+
+The aim of this course is to develop a thorough understanding of financial markets. We explore how investors make decisions about risk and return, how financial markets price risky assets in equilibrium, and how financial markets can sometimes malfunction. The course puts particular emphasis on the role of real-world imperfections that are absent from the standard textbook view of financial markets. For example, we explore the role of illiquidity: Why are there liquid markets for some types of assets but not for others? Why does liquidity often disappear in times of market turmoil? We will also study recent insights from behavioral finance about investor psychology and market inefficiencies. Moreover, we will look at financial innovations such as credit-default swaps, securitization, and hedge funds that play important roles in financial markets these days. We use cases to develop these topics in the context of practical decision-problems in the areas of asset allocation, risk management, and financing.
+FINANCE 329.  Investment Seminar.  3 Units.
+
+See FINANCE 321 course description.
+FINANCE 331.  Practical Corporate Finance.  4 Units.
+
+(Note: this course was formerly known as FIN 230) The main aim of this course is to enable students to apply the fundamental ideas of finance to problems in the area of corporate finance with all the complexities the real world entails. The course is a follow-up to the Fall Managerial Finance course where students learnt basics of valuation tecyhniques and various finance applications. We will explore both how to make all this knowledge practical as well as how to deepen our knowledge of fundamental finance ideas. nnnThe main focus of this course is on the corporate financial manager and how he/she reaches decisions as to investments, dividends and financing of all sorts. Topics include leveraged buyouts, hostile takeovers, private equity financing and venture capital, financial distress and bankruptcy, mergers and acquisitions, managing working capital. The cases will be used to motivate our discussion of how to bridge the gap between rigorous finance theory and its application to practical problems in corporate finance.nnnThe course is case-based and more advanced than FINANCE 324. "Advanced" means that we will discuss a lot of subtle qualitative issues as well as explore deeper fundamental applications of core finance ideas. The course is intensive and will require students to prepare carefully all cases, read and understand a lot of materials, and actively participate in the class discussion. The main teaching method is cold calling.
+Same as: Accelerated
+FINANCE 332.  Finance and Society.  3 Units.
+
+This interdisciplinary course explores the economic, political, and behavioral forces that shape the financial system and, through this system, have a major impact on the economy and society. You will gain an in-depth understanding of how the complex interactions between individuals, corporations, governments, and the media can help markets work or, in turn, generate governance failures and inefficiencies. Visitors with varied experiences will enrich our discussions of key questions about the workings of capitalism in liberal democracies.
+FINANCE 335.  Corporate Valuation, Governance and Behavior.  4 Units.
+
+This course will develop a detailed knowledge of corporate valuation techniques, together with an understanding of the role such valuations play in a wide range of corporate financing decisions. First, the course will carefully consider different valuation techniques, the assumptions that underlie each of these methods, how they are applied in practice, how they are related to one another, and how to decide which method of valuation is appropriate for a given application. After developing these tools, they will then be applied to a wide range of corporate finance settings. Among the applications to be considered are mergers and acquisitions, international valuation, corporate governance, financial distress, agency conflicts, asymmetric information, and overvaluation. For all of these applications, this course will emphasize the central importance of valuation to understanding observed phenomena and to guiding optimal decision making, as well as the unique challenges to valuation posed by the particular application.
+FINANCE 336.  The Finance of Retirement and Pensions.  4 Units.
+
+The financial economics of how retirement is financed, particularly in the US. Topics: basic finance concepts necessary for understanding individual retirement savings. Properties of financial instruments such as bonds and stocks. Optimization of individual retirement account or 401(k) portfolios. Defined benefit pensions. Measuring defined benefit pension liabilities. Impact of defined benefit pension liabilities on corporate, state, and local budgeting. The economics of national retirement policy including Social Security and government treatment of private retirement savings.
+FINANCE 341.  Modeling for Investment Management.  3 Units.
+
+This course will combine practical and up-to-date investment theory with modeling applications. Understanding beautiful theory, without the ability to apply it, is essentially useless. Conversely, creating state-of-the-art spreadsheets that apply incorrect theory is a waste of time. Here, we try to explicitly combine theory and application. The course will be divided into 6 modules, or topics. The first day of each module will be a lecture on an investment topic. Also provided is a team modeling project on the topic. The second day of each module will be a lab. The lab day will begin with modeling concepts (tips) designed to help you use Excel to implement the module's investment topic. After the tips are provided, the remainder of the lab day is devoted to teams working on their modeling project and allowing for Q&A. On the third day of each module will be presentations and wrap-up.
+FINANCE 345.  History of Financial Crises.  3 Units.
+
+Financial crises are as old as financial markets themselves. There are many similarities between historical events. The crisis of 2008, for example, is far from unique. More often than not financial crises are the result of bubbles in certain asset classes or can be linked to a specific form of financial innovation. This course gives an overview of the history of financial crises, asset price bubbles, banking collapses and debt crises. We start with the Tulip mania in 1636 and end with the recent Euro crisis. The purpose of the course is to understand the causes of past crises and to develop a conceptual framework that ties common elements together. We will discuss the lessons that we can draw for financial markets today.
+FINANCE 346.  Institutional Money Management.  3 Units.
+
+The object of this course is to study the money management industry from the perspective of the user --- an investor who wants to invest money. This course will study the main components of the money management industry: mutual funds, hedge funds, private equity funds and venture capital funds. It will also examine important users of the industry such as non profits, endowments and defined benefit pension funds. The emphasis of the course will not be on how fund managers make money, but rather on how the industry is organized, how managerial skill is assessed, how compensation is determined, and how economic rents are divided between managers and investors. The course will explore how competitive market forces interact with managerial skill and other market frictions to give rise to the observed organization of the industry.
+FINANCE 347.  Money and Banking.  3 Units.
+
+This course is designed to help students understand the connections between money (the Federal Reserve), financial markets, and the macroeconomy. How are interest rates determined, and how does the Federal Reserve conduct monetary policy? How do Federal Reserve actions impact the US as well as other economies? What economic factors drive the yield curves in different bond markets? We will pay particular attention to the banking system, with an eye toward understanding the function, valuation, and regulation of banks. We touch on a number of topics including the role of the Federal Reserve as a lender of last resort during financial crises, unconventional monetary policy tools such as quantitative easing and forward guidance, cryptocurrency, and emerging market financial crises. We will often begin class with a discussion of current macro-financial market events in the context of our course coverage.
+FINANCE 350.  Corporate Financial Modeling.  4 Units.
+
+This course will expose students to the fundamentals, best practices, and advanced techniques of corporate financial modeling. We begin with basic operating and integrated financial statement models, and ultimately develop financial models to analyze major corporate transactions, including venture capital funding, mergers and acquisitions, and leverage buyouts. We will integrate theories presented throughout the MBA core, particularly those from accounting and finance, and take a hands-on approach to understand how the theory is implemented in practice.The focus of the course will be on developing critical financial modeling skills, understanding best practices, and recognizing common pitfalls. Students will work on a series of cases and build models that can be used for earnings and pro-forma financial statement forecasts, valuation, the assessment of financing needs, merger analysis, and LBO evaluation.Students will also gain experience presenting financial models and critically assessing them. By the conclusion of the course, students will develop the skills to construct complex financial models and the logical frameworks to utilize them for various organizational applications.
+FINANCE 351.  Advanced Corporate Financial Modeling.  4 Units.
+
+Students will engage in the development of corporate financial modeling cases and solutions. Students will also develop materials to aid others in building financial models, and serve as case leaders during lab workshops. Extensive background in financial modeling and experience with Excel is required.
+FINANCE 361.  Behavioral Finance.  4 Units.
+
+This course provides an introduction to behavioral finance, a discipline which integrates insights from psychology into the study of financial decisions and markets. There will be a focus on understanding the psychological underpinnings of financial decision-making as well as the institutional frictions that may allow these psychological mechanisms to influence economic outcomes. Applications include the pricing of assets relative to fundamental value, trading strategies, managerial behavior, and household savings and investment decisions. Conceptual issues will be emphasized through a mix of case discussions and lectures, and quantitative exercises will serve to develop analytical tools for making financial choices.
+FINANCE 362.  Financial Trading Strategies.  3 Units.
+
+The purpose of this course is to familiarize students with the different types of trading strategies employed by various money management institutions. These financial trading strategies are used to manage the risk and return profiles of specific portfolios. Throughout the sessions, students will be challenged to understand and explore the application and implementation of these different strategies. Trading simulations employed on the Rotman Interactive Trader and Rotman Portfolio Manager (using real market data and computer generated data) will be used extensively in this course as a way to learn and test different strategies. All classes will be held in the new Real-time Analytics and Investment Lab (RAIL), located on the third floor of the Bass Building (B312). Students are expected to attend all sessions. Grades are based on in-class simulation results, class participation, and two written assignments.
+FINANCE 373.  Entrepreneurial Finance.  3 Units.
+
+This is a course about the financial decision-making process largely from the point of view of the CEO of an entrepreneurial venture, ranging from very early to very late stages. The course takes a two-pronged approach: First, we develop tools and concepts of corporate finance related to modeling, valuation, control, and investment decisions within an entrepreneurial context. Second, we use cases with firms at different stages of their life cycles from initial angel or venture capital investments through exit decisions, in order to see the issues that arise when these principles are applied in practice. In some cases we show the viewpoint of the entrepreneur and in others the perspective of the investor. After all, as an entrepreneur, one cannot negotiate effectively without understanding an investor's motivations. Conversely, an investor cannot evaluate a potential investment opportunity without appreciating the entrepreneur's perspective and incentives. Finally, we explore new developments in entrepreneurial finance such as crowdfunding and early liquidity provisions.
+FINANCE 377.  China's Financial System.  3 Units.
+
+This course is a survey of China's financial system, including its banking industry, monetary policy structure, and financial markets (bonds, derivatives, equities, foreign exchange, alternative asset management, and related markets). The goal is an integrated view of how capital, risk, and liquidity are intermediated within China and cross-border. Current trends (including liberalization of markets and financial stability) will be emphasized. Coverage will be through lectures, reading of research, including primary source documents and secondary (journalistic and analyst) commentary. There will be a range of subject-matter-expert speakers. Using our special video-technology enabled classrooms at Stanford and at the Stanford Center at PKU, this course is able to draw live speakers in Beijing and to meet jointly with students at Beijing University. Students will participate actively in class discussion, make a 5-minute (per student in each group) research presentation, and submit a 10-page term paper.
+FINANCE 381.  Private Equity in Frontier Markets: Creating a New Investible Asset Class.  4 Units.
+
+In 2001, Jim O'Neil of Goldman Sachs wrote a research note which underscored the importance of so-called Emerging Markets to a well-balanced investment portfolio. Still today, most investors have little or no investment exposure beyond North America, Europe, Japan and more recently India, China and Brazil. All of this is just beginning to change. The not yet fully formed investment category called frontier market private equity is emerging and within the next decade is likely to be an asset class of its own. Private equity investments are being made in southeast Asia, in MENA(Middle East/ North Africa), in sub-Saharan countries beyond South Africa and in Latin America. Even fund of funds are appearing across these markets. At the same time, investors face a world of diminished returns expectations in developed economies just as aging demographics and the need for continued growth, innovation and infrastructure renewal places increasing demands for payout. Suffice it to say, investors will be looking beyond traditional asset classes and geographies for sources of return. This new course is designed to expose you to the still emerging, not yet fully formed world of frontier market private equity. To set the context we will start by reviewing the fundamentals of economic growth and development globally. In addition we will discuss the fundamental concepts involved in constructing and evaluating the performance of a large scale investment portfolio. We will then review cases on the elements of the private equity cycle/process and specifically address the special demands of frontier markets in general. We will also focus on issues that are specific to various markets (e.g. Nigeria, Vietnam, etc.). Students taking the course will be given the opportunity to make important contributions to the knowledge base of this still very young field by working in small teams to research topics of personal and general interest, the results of which will be reported to the rest of the class. This course will not be offered next academic year, 2017-2018.
+FINANCE 385.  Angel and Venture Capital Financing for Entrepreneurs and Investors.  3 Units.
+
+This course covers all the stages of funding for early stage high-growth companies, from seed funding to venture capital rounds to a successful exit. We will concentrate on how entrepreneurs and investors make and should make important decisions. Examples of issues that we will cover are: How can entrepreneurs raise funding successfully? What are typical mistakes entrepreneurs make in raising capital and negotiating with investors? How to choose your investor? How to pitch to an investor? How do angels and VCs generate and process their deal flow and select companies? How are VCs involved in business decisions such as recruiting talent and replacing CEOs? What are the important provisions of financial contracts between VCs and founders? How to value early-stage companies? The course is very applied and mostly case-based. We will discuss a lot of nitty-gritty details that is a must for founders and investors. Case protagonists, founders, angels, and VCs will be among guest speakers. No prior knowledge of the VC industry is needed.
+FINANCE 548.  The Political Economy of Banking Regulation in US and Europe.  1 Unit.
+
+The 2007-09 financial crisis exposed the extreme fragility of the financial system and the harm financial crises can cause. Have regulatory reforms in the US and Europe been effective and, if not, how and why? Does it matter if some institutions are "too big to fail," and, if so, how and why? This course will discuss the economic and political forces that are shaping the financial system in US and Europe and evaluate recent and current events that will have important implications for the economy for many years. We will see how politics trumps economics in Washington, London and Brussels in different but broadly predictable ways.
+FINANCE 555.  Private Wealth Management and Personal Investing.  2 Units.
+
+The Private Wealth Management and Personal Investing course will address issues that relate to the management of personal assets as opposed to institutional investing. Many investment courses at the GSB emphasize large institutional portfolios but this course is about portfolio decisions for individuals. It will cover the origins and growth of private wealth management as an industry, investment planning, risk management, inter-generational transfers of wealth, choice of wealth advisors and philanthropy. Special emphasis is on understanding how wealth managers may be evaluated, including potential conflicts of interest, and performance measurement. Classes will focus on case studies and various readings. Each class will include visits from professionals in the wealth management and personal investing business. Active class participation and a group project are required.
+FINANCE 559.  The World of Investing.  1 Unit.
+
+This course is a speaker series, exposing students to the world of first-class investors and their philosophies. Each week will have a different visitor describing their investment strategy and experience. Attendance at all sessions is a requirement to pass the course.
+FINANCE 562.  Financial Trading Strategies.  2 Units.
+
+The purpose of this course is to familiarize students with the different types of trading strategies employed by various money management institutions. These financial trading strategies are used to manage the risk and return profiles of specific portfolios. Throughout the sessions, students will be challenged to understand and explore the application and implementation of these different strategies. Trading simulations employed on the Rotman Interactive Trader and Rotman Portfolio Manager (using real market data and computer generated data) will be used extensively in this course as a way to learn and test different strategies. All classes will be held in the new Real-time Analytics and Investment Lab (RAIL), located on the third floor of the Bass Building (B312). Students are expected to attend all sessions. Graded are based on in-class simulation results, class participation, and two written assignments. This course is designed to have a fast learning curve and is a pre-requisite for FIN563, the advanced extension of this course.
+FINANCE 563.  Financial Trading Strategies 2.  2 Units.
+
+This course is an extension of FIN562, Financial Trading Strategies. Students will expand on introductory topics from the Financial Trading Strategies Course and be required to build extensive live-market models and risk management models. Class discussions will closely link current market events and pricing anomalies to theoretical and simulated markets and we will closely study the deviations between them.
+FINANCE 587.  Private Equity - An Overview of the Industry.  2 Units.
+
+This 2-unit elective at the GSB is an "Overview" of the private equity industry including its reason for being, its growth and the various strategies for success that private equity firms employ. The course looks at all aspects of private equity partnerships and private equity investing. The course may be of particular interest to five groups of students: (i) students who aspire to be employed in private equity as a career; (ii) students who plan to be employed by companies that are owned by private equity firms; (iii) students who may invest in private equity partnerships as a limited partner; (iv) students who find private equity to be an interesting part of the financial services industry, and (v) students who expect to participate in corporate business development or mergers and acquisitions. The course will meet for nine classes. Each class will have at least one senior partner from a private equity firm to comment on the activities of his firm. In years past, some of the true leaders of the industry have participated. One class will be a mock investment review committee presentation as a final project.
+FINANCE 620.  Financial Markets I.  3 Units.
+
+This course is an introductory PhD level course in financial economics. We begin with individual choice under uncertainty, then move on to equilibrium models, the stochastic discount factor methodology, and no-arbitrage pricing. We will also address some empirical puzzles relating to asset markets, and explore the models that have been developed to try to explain them.
+FINANCE 621.  Financial Markets II.  3 Units.
+
+This course continues F620 and covers a number of main concepts in market microstructure. Among the topics that are covered are (i) Rational Expectations models and their foundations (ii) strategic trading models (iii) models of market and funding liquidity. In addition to the discussion of theoretic models time will be allotted to empirical applications.
+FINANCE 622.  Dynamic Asset Pricing Theory.  4 Units.
+
+This course is an introduction to multiperiod models in finance, mainly pertaining to optimal portfolio choice and asset pricing. The course begins with discrete-time models for portfolio choice and security prices, and then moves to a continuous-time setting. The topics then covered include advanced derivative pricing models, models of the term structure of interest rates, the valuation of corporate securities, portfolio choice in continuous-time settings, and finally general-equilibrium and over-the-counter asset pricing models. Students should have had some previous exposure to general equilibrium theory and some basic courses in investments. Strong backgrounds in calculus, linear algebra, and probability theory are recommended. Problem assignments are frequent and, for most students, demanding. Prerequisite: F620 and MGTECON600 (or equivalent), or permission of instructor.
+FINANCE 624.  Corporate Finance Theory.  4 Units.
+
+This course considers a wide range of topics in theoretical corporate finance (broadly interpreted). Topics include capital structure decisions, agency conflicts in the firm, dividend policy, security design, optimal financial contracting, the theory of the firm, the market for corporate control, and banking and financial intermediation, among others. The primary focus is on how asymmetric information, agency conflicts, strategic interactions, and incomplete contracting affect corporate financial decision-making. The course aims both to familiarize students with influential papers and current research, and to promote new research ideas in the area.
+FINANCE 625.  Empirical Asset Pricing.  3 Units.
+
+This course is an introduction to empirical research in asset pricing. The focus of the course is on the interplay between financial economic theory, econometric method, and that analysis of financial market data. Topics include tests of asset pricing models, return predictability in time-series and cross-section, empirical studies of asset market imperfections, and studies of individual and professional investor behavior. Class discussions will draw on textbooks/monographs and original articles and working papers.
+FINANCE 626.  Advanced Corporate Finance.  3 Units.
+
+This is a course on contemporary theoretical and empirical issues in corporate finance. Building upon the first-year courses in corporate finance theory and empirical methods in finance, we will examine issues in asset pricing applications to corporate finance, dynamic capital structure (dynamic financing decisions), financial distress, financing and investment interactions, and behavioral corporate finance. Both conceptual economic frameworks and econometric methods will be developed as needed. A requirement for this course is that students complete two written projects, one theoretical and one empirical, and at least one of these projects will be presented to the class.
+FINANCE 627.  Venture Capital and Finance of Innovation.  3 Units.
+
+In this course we will study the theory and empirics of venture capital (VC) and, more broadly, finance of innovation. We will start by reviewing the way the VC and related markets function and then will dive into such topics as VC contracting, valuation, and impact on innovation. We will review most important research studies published in the field over the past 20+ years and pay particular attention to recent research.
+FINANCE 628.  Finance Pre-Seminar Reading Course.  1 Unit.
+
+Finance Pre-Seminar Reading.
+FINANCE 630.  Empirical Corporate Finance.  3 Units.
+
+This course provides an introduction to empirical research in corporate finance, with an emphasis on the application of cross-sectional and panel data econometric techniques for causal inference. Topics include investment policy, entrepreneurship and innovation, financing decisions, firm ownership, corporate governance, managerial incentives, financial contracting, and the structure and internal organization of firms. The course assumes knowledge of econometrics at the level of MGTECON 603.
+FINANCE 632.  Empirical International Finance.  3 Units.
+
+This is an advanced graduate-level course in international finance and macroeconomics. The course focuses on empirical methods, stylized facts, new advances in large-scale empirical work, and applied theory. This course is targeted to advanced second year PhD students. The course assumes familiarity with the basics of graduate-level macroeconomics and finance. Students without the necessary familiarity with these techniques are welcome to take the course, but should expect to have to fill the gaps on their own (and with the help of their classmates!). Given the target audience above, the course has three main objectives. 1) To introduce and investigate both classic and new economic issues at the frontier of current research in international finance and macroeconomics. The purely pedagogical part of the course aims to make students familiar with the questions, the current state of research, and the empirical tools currently being used. 2) To create a mental framework and intuitive understanding of important and active questions. What makes a question interesting? What makes a paper a good paper? How to develop a reasoned view of new (and perhaps yet un-studied) issues in international finance and macroeconomics? This objective is less direct and less formal, but aims to transition the students into full-time researchers. 3) To kick-start students on independent research. For those interested in applied work the course makes you familiar and tries to connect you with existing data at the frontier of the field, both public and proprietary. For those interested in theoretical work the course staff acts as a sounding board for early research ideas.
+FINANCE 633.  Advanced Empirical Corporate, Banking and Household Finance.  3 Units.
+
+This course discusses empirical aspects of major topics in corporate finance, household and consumer finance, housing, banking, financial regulation as well as political economy. The course is designed for students doing their PhD in finance, economics and accounting. The class is very interactive.
+FINANCE 635.  Advanced Topics in Empirical Asset Pricing.  3 Units.
+
+This course will survey current research topics in empirical asset pricing. The emphasis will be on giving students exposure to active research areas and open questions rather than well-established areas and empirical techniques. Topics may include liquidity, capital market frictions, money management, volatility, investment-based asset pricing, return predictability, bubbles, and consumption-macro asset pricing models.
+FINANCE 637.  Macroeconomics and Financial Markets.  3 Units.
+
+This PhD course will cover research topics at the boundary between macroeconomics and finance. Topics will include the study of macroeconomic models with financial frictions, the term structure of interest rates, conventional and unconventional monetary policy, sovereign debt crises, search frictions and segmentation in housing markets, (over)leveraging by households, heterogeneous expectations, excess volatility, financial bubbles and crises. Student presentations and course paper requirement. Designed for second year PhD students in economics or finance.
+FINANCE 691.  PhD Directed Reading.  1-15 Unit.
+
+This course is offered for students requiring specialized training in an area not covered by existing courses. To register, a student must obtain permission from the faculty member who is willing to supervise the reading.
+Same as: ACCT 691, GSBGEN 691, HRMGT 691, MGTECON 691, MKTG 691, OB 691, OIT 691, POLECON 691, STRAMGT 691
+FINANCE 692.  PhD Dissertation Research.  1-15 Unit.
+
+This course is elected as soon as a student is ready to begin research for the dissertation, usually shortly after admission to candidacy. To register, a student must obtain permission from the faculty member who is willing to supervise the research.
+Same as: ACCT 692, GSBGEN 692, HRMGT 692, MGTECON 692, MKTG 692, OB 692, OIT 692, POLECON 692, STRAMGT 692
+FINANCE 698.  Doctoral Practicum in Teaching.  1 Unit.
+
+Doctoral Practicum in Teaching.
+FINANCE 699.  Doctoral Practicum in Research.  1 Unit.
+
+Doctoral Practicum in Research.
+FINANCE 802.  TGR Dissertation.  0 Units.
+
+.
+Same as: ACCT 802, GSBGEN 802, HRMGT 802, MGTECON 802, MKTG 802, OB 802, OIT 802, POLECON 802, STRAMGT 802
+See Also
+
+			© 2020-21 Stanford University.
+			  
+			Stanford, 
+			California 
+			94305. 
+			
+				Copyright Complaints
+				   Trademark Notice
+			
+		
+
+				Print this page.
+			
+The PDF will include all information unique to this page.
+Download PDF of the entire catalog
+The PDF will include all information in the catalog.
+
+
+course detail
+
+
+
+
+
+entrepreneurial finance and private equity (34101)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  kaplan, steven meadow, scott zwick, erickaplan, steven contentthis course uses the case method to study entrepreneurial and private equity finance. the course is motivated by increases in both the supply of and demand for private equity. on the supply side, the amount of private equity under management - by partnerships investing in venture capital, growth equity, leveraged buyouts, distressed companies, etc. - has increased substantially in the last two decades. on the demand side, a large number of mbas and others are interested in starting and managing their own businesses. private equity also has grown substantially outside of the u.s.the primary objective of the course is to provide an understanding of the concepts and institutions involved in entrepreneurial finance and private equity markets. to do this, the course has been designed to be broad and comprehensive. we will explore private equity from a number of perspectives, beginning with the entrepreneur/issuer, moving to private equity - venture capital and leveraged buyout - partnerships, and finishing with investors in private equity partnerships. for each class meeting, study questions will be assigned concerning a case study. we will discuss these questions and the material in the case for most of the class period. before each case discussion, each student will be required to submit a memorandum (up to two pages) of analysis and recommendations. group work is encouraged, but not required on these short memoranda. memoranda with up to three names on them are acceptable. we will use journal articles and some lectures to supplement and enhance the case discussions. all required cases and supplementary readings will be posted online in canvas.preassignment: students are responsible for a memorandum for each case we discuss in the first class. the first class assignment is detailed in canvas. all students (including those who are not registered, but are trying to add the course) must attend and prepare the first week. students who do not attend the first week cannot take the course.formatlecturesdiscussioncase studiesprerequisitesat least one of business 35200, 35201, 35902 or 30130: strict (or with permission of instructor). instructor permission required for auditors.restrictionsno non-booth studentsmaterialsresourcescanvas site availablegradesbased on class participation (40%), the short memoranda (10%), and a final exam (50%). cannot be taken pass/fail.   no non-booth students.gradesgraded attendance/participationassessment & testingfinal exam (in class)restrictionsno pass/fail gradessyllabus  scheduleautumn 2020section: 34101-01mw 10:10am-11:30amharper centerthe jon s. corzine foundation classroom-hcc01dual modalityautumn 2020section: 34101-02mw 1:30pm-2:50pmharper centerthe jon s. corzine foundation classroom-hcc01dual modalityautumn 2020section: 34101-85s 9:00am-12:00pmlocation: tbdremote-onlydescription and/or course criteria last updated: july 1 2019  meadow, scott contentusing the case method and an array of guest lecturers to supplement the casework, this course is meant to aid those students who are considering being part of an entrepreneurial enterprise or evaluating such enterprises from the seat of the public or private financier.the chief objective of the course is to provide an understanding of the criteria for a successful entrepreneurial endeavor and the methods of analysis to make the proper judgment.  the casework will consider ventures representing broad sectors of the economy, including telecommunications, healthcare and consumer services.  these sectors will be used to examine entrepreneurial activity and analysis.  the impact of the internet / social media as an enhancement to these sectors will be interwoven throughout.the class analyzes the role of various functional areas e.g., finance, marketing, and strategy, toward achieving success in new ventures.daily discussions will cover issues of private equity finance from seed stage through growth equity to recapitalization.  deal structure, incentive design, risk-based valuation, financial management in private, rapidly growing enterprises will be included.  exit strategies will be covered, including initial public offerings, mergers and strategic partnerships.  restructuring poorly performing projects will also be a component.attention is also given to analyzing the suppliers of capital, individual investors, venture capitalists, commercial banks, asset-based lenders and investment banks.before each class, students will be required to submit an executive summary that includes analysis and recommendations.  group work is encouraged, but not required on these executive summaries.  memoranda with up to five team member names on them are acceptable.  we will discuss the study questions and the material in each class period.preassignment: students are responsible for a memorandum for each case we discuss in the first class.   the first class assignment is detailed on the canvas site.also, please note that attendance for all nine weeks of the course is very important for your success and for other students' success in this team-based course. if you are hoping to register for this course but have not yet secured a seat, you must attend class sessions as it is prohibitive to catch up. if you have not attended and register after the start of the quarter, you will be asked to drop the course.formatlecturesdiscussioncase studiesgroup projectsprerequisitesnone.  business 33001 and 35200 recommended. business 30130 would be helpful.materialsthis course will have a canvas site.resourcescanvas site availablegradesbased on class participation (10%), the short memorandum (15%), midterm (30%) and final project (45%).   the final project is a take home case analysis.  cannot be taken pass/fail.  auditors need to receive approval from the professor.gradesgraded homework assignmentsgraded attendance/participationassessment & testingmidtermfinal projectrestrictionsno pass/fail gradesno auditorssyllabus  schedulewinter 2021section: 34101-01meeting day/time: tbdlocation: tbdwinter 2021section: 34101-85meeting day/time: tbdlocation: tbdsummer 2021section: 34101-81meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: july 15 2020  zwick, eric contentthis course uses the case method to study entrepreneurial finance and private equity, including angel and venture capital, growth equity, and buyouts. the course is motivated by growth in private capital markets and in the perceived importance of high growth entrepreneurial projects.
+
+the primary goal of the course is to familiarize students with the financial and organizational challenges typical of start-up and growing private companies and to provide an understanding of the concepts and institutions involved in private capital markets. to do this, the course is broad and comprehensive. the course will appeal to students who want to start and manage their own business, who want to work in a start-up, or who want to work in a venture capital or private equity
+organization.
+
+the course primarily considers the financial economics of entrepreneurial settings, but discussions will also integrate issues from micro and macroeconomics, strategy, organization, and control. we explore the questions raised from many perspectives, often contrasting the positions of entrepreneurs, issuers, and targets with those of managing and limited partners. issues covered include deal structure, incentive design, valuation of high risk projects, financial management in rapidly growing firms, initial public offerings, mergers and acquisitions, and capital restructuring.  among capital suppliers we consider informal risk capital, commercial banks, angel investors, venture capital firms, and investment banks.formatlecturesdiscussioncase studiesgroup projectsprerequisitesbusiness 33001 (or 33002), 35000 (or 35901), and 35200: strict. business 30130 would be helpful.materialswe will use journal articles, some lectures, and visiting speakers to suppl
+
+
+course detail
+
+
+
+
+
+life sciences: innovation and finance (34205)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  fairbank, joshuafairbank, joshua content**2021 update**covid-19 provides a real time case study for this class. we will look at the virus (sars-cov-2), the drug companies involved, the research and trials. who funds scientific research, what are the incentives of the various parties, and what is the role of regulators (fda, cdc, niaid, who) during a pandemic? quite simply: how are cures developed?course descriptionhealthcare comprises over 1/6 of us gdp and is growing at more than double the rate of the rest of the economy. it is a sector where innovation can be measured in lives saved.the life sciences include biotech, pharmaceuticals, medical devices and instruments, and healthcare it. covering both innovation and finance this course examines the various roles of leaders and investors in this industry. students will learn to evaluate companies and deals from the perspectives of founders, vcs, the board, management, investment bankers, pe, and public/crossover investors. the course will not cover the providers (doctors and hospitals) or payors (private and public insurance) directly, they will only be included from a systemic perspective.healthcare is a highly regulated industry where the government grants legal temporary monopolies. at the same time innovation in healthcare is bound by the rules of human biology - software does what its told, biology does not. the course will cover intellectual property, regulators, and the inevitable scientific set-backs along the way.one of the goals of this course is to remove the perceived barrier to entry to a career in the life sciences. cases and guest speakers have been selected to highlight a wide range of backgrounds. this class is for students considering a career in healthcare whether as an entrepreneur, an investor, an executive, or on wall street.guests industry leaders will be included as guest speakers for some classes.schedule  one evening per week at gleacher.formatlecturesdiscussioncase studiesgroup projectsethics discussion/componentprerequisitesthere is no established track to becoming a vc or an entrepreneur, rather various backgrounds lend different strengths. similarly, there are no firm prerequisites for this course. no healthcare experience or scientific background will be assumed. a general understanding of public and private financial markets, economics, and basic accounting will all be very helpful. materialsresourcescanvas site availablegrades25% class participation30% assignments and cases20% midterm (take-home)25% final projectgradesallow provisional grades / early final grades (for joint degree and non-booth students only)graded homework assignmentsgraded attendance/participationmandatory attendance week 1assessment & testingmidtermfinal projectrestrictionsno pass/fail gradesno auditorssyllabus  schedulespring 2021section: 34205-81meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: july 15 2020  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+corporate finance i (34903)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  diamond, douglas; he, zhiguodiamond, douglas  he, zhiguo contentcorporate finance i provides an introduction to the theory of corporate finance and financial intermediation.  some topics in corporate finance include capital structure, security design, security issuance, incomplete financial contracts and corporate control. topics related to financial intermediation (banking) include financial crises, the role of liquidity creation and the choice of debt maturity for firms and financial intermediaries.formatlecturesprerequisitesecon 30100, econ 30200, & econ 30300: strict. econ 30300 can be replaced by bus 33911 (prof harris). bus 33911 can be taken concurrently with 34903. busn 34903=econ 35070.restrictionsphd - students onlymaterialsresourcescanvas site availablegradesgrades will be based on problem sets, referee reports and a final examination.gradesgraded homework assignmentsassessment & testingfinal exam (in class)syllabus  scheduleautumn 2020section: 34903-50m 3:15pm-6:15pmharper centerthe eugene f. fama classroom-hcc03remote-onlydescription and/or course criteria last updated: august 29 2018  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+corporate finance ii (34904)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  sufi, amirsufi, amir contentthis course provides an empirical treatment of major topics in corporate finance and financial intermediation, including: capital structure, investment, bankruptcy, internal capital markets, the real effects of bank lending, financial frictions, and corporate finance implications for macroeconomics.prerequisitesbusiness 34903 (or 35902): strict.  a solid background in advanced microeconomics is highly recommended.   mba students must get instructor consent to enroll: strict. busn 34904=econ 35080.gradesgrades will be based on problem sets, referee reports and a final examination.  no provisional grades.gradesgraded homework assignmentsassessment & testingfinal exam (in class)no syllabus available schedulewinter 2021section: 34904-50meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: august 16 2018  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+introductory finance (35001)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  bhattacharya, ayanbhattacharya, ayan contentthis course provides an introduction to the field of finance and is intended for students who do not plan to work in the finance area but wish to be conversant with the important ideas and tools of the field which they might encounter in the course of their careers as consultants or managers. most of what one needs to know to understand finance issues in a managerial position involves corporate finance, so the course emphasizes corporate finance topics over other areas. for example, the course covers the basic capital asset pricing model but does not cover several other asset-pricing models that are generally discussed in 35000. neither does the course delve into the institutional details of various assets or asset markets (such as the markets for derivatives) unless these are needed to understand corporate finance issues (for example, some understanding of bond contracts is essential to understand financing issues, or some knowledge of options is useful for valuation of projects). more specifically, aside from the necessary asset-pricing background, the course considers criteria for corporate investment decisions (capital budgeting) and provides an introduction to corporate valuation. the course also considers the firms financing decisions, namely, what securities to issue and how much to pay out in dividends. the format is primarily lecture, but class discussion is strongly encouraged. a detailed syllabus will be posted on the university's canvas web site for this course as soon as it is available.formatlecturesdiscussionprerequisitesit is strongly recommended that students take business 30000 prior to taking business 35001.materialsthe main text used for the course is berk and demarzo, corporate finance. the course canvas site will contain supplemental readings and articles.resourcescanvas site availablegradesbased on homework assignments, a mid-term, and a final. no auditors. provisional grades for non-booth students provided, but no early final grades.gradesgraded homework assignmentsassessment & testingmidtermfinal exam (in class)restrictionsno auditorssyllabus  scheduleautumn 2020section: 35001-01m 8:30am-11:30amharper centerthe sidney davidson classroom-hcc04dual modalityautumn 2020section: 35001-81m 6:00pm-9:00pmgleacher centerthe amoco lecture hall-gc300dual modalityautumn 2020section: 35001-85s 1:30pm-4:30pmlocation: tbdremote-onlydescription and/or course criteria last updated: august 4 2020  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+behavioral finance (35121)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  hartzmark, samuelhartzmark, samuel contentthis course explores how the market is influenced by the behavior of investors, attributable to psychology or institutional constraints. we will survey recent research on possible mispricing in these markets, investor behavior, the predictability of security returns, and the practical limits to arbitrage. possible topics include earnings and price momentum, market anomalies, tactical asset allocation, under-reaction to news, the money management industry, and security complexity and obfuscation. practical implications for portfolio management are developed and emphasis will be placed on data-driven analysis of financial markets.formatlecturescase studiesgroup projectsprerequisitesbusiness 35000 and business 41100. this is a quantitative course and students are expected to be comfortable applying statistics and multivariate regression to data and interpreting the results. knowledge of a regression package (such as excel) is essential.
+
+prerequisite requirements (35000 and 41100) are not strict, so you do not need to request a waiver. if you feel confident taking the course without the prerequisites you are welcome to, but you are responsible for learning any material you might need to make up on your own.
+
+this course can be taken before or after 35215 (behavioral and institutional finance). 
+
+as long as you have completed all the coursework, provisional grades are given.materialslecture notes.  this course will have a canvas site.resourcescanvas site availablegradesgroup assignments, two exams, final project and class participation.  no auditors.gradesgraded homework assignmentsgraded attendance/participationassessment & testingmidtermfinal exam (in class)restrictionsno auditorssyllabus  schedulespring 2021section: 35121-01meeting day/time: tbdlocation: tbdspring 2021section: 35121-81meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: july 01 2019  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+corporation finance (35200)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  jeffers, jessica kempf, elisabeth nelson, scott noel, pascal vermaelen, theo yannelis, constantinejeffers, jessica contentthe purpose of this course is to provide you with an understanding of major decisions made by corporate financial managers and familiarize you with the tools used to make these decisions. the first part of the course covers methods used to value investment projects. particular attention will be given to the methods of weighted-average cost of capital (wacc), and adjusted present value (apv). the second part of the course focuses on issues of corporate financial structure. the focus will be on the choice of financing through equity, debt, and other types of securities and on payout policies through dividends. specialized topics, such as mergers and acquisitions and corporate hedging, will be covered as time permits.formatlecturesdiscussioncase studiesprerequisitesbusiness 30000, 33001, 35000 (strict), and 41000 (or 41100). waivers for 35000 will potentially be granted to students with substantial previous course work in investments or cfa level 2 or above. previous work experience related to investments and previous coursework in corporate finance do not satisfy the prerequisite for 35000. the course is not self-contained; i rely heavily on the knowledge from the other classes.  non-booth students, including dougan scholars, need faculty permission: strict.  cannot enroll in busn 35200 if busn 20410 taken previously.restrictionsstrict prerequisitematerialsberk and demarzo, corporate finance (textbook only); electronic course materials will be posted on canvas.resourcescanvas site availablegradesbased on cases, a midterm exam (optional), a final exam, and class participation.  no early final grades.gradesgraded homework assignmentsgraded attendance/participationassessment & testingoptional midtermfinal exam (in class)restrictionsno pass/fail gradesno auditorssyllabus  schedulewinter 2021section: 35200-01meeting day/time: tbdlocation: tbdwinter 2021section: 35200-02meeting day/time: tbdlocation: tbdwinter 2021section: 35200-85meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: july 15 2020  kempf, elisabeth contentthe purpose of this course is to provide you with an understanding of major decisions made by corporate financial managers and to familiarize you with the tools used to make these decisions. the first part of the course covers methods used to value investment opportunities. particular attention is given to discounted cash flow valuation, including the methods of weighted average cost of capital (wacc) and adjusted present value (apv), as well as real options valuation. the second part of the course focuses on issues of corporate financial structure. the focus will be on the choice of financing through equity, debt and other types of securities and on payout policies through dividends. specialized topics, such as mergers and acquisitions and corporate hedging will be covered as time permits.formatlecturesdiscussioncase studiesprerequisitesbusiness 30000, 33001, 35000 (strict, cannot be concurrent), and 41000 (or 41100). waivers for 35000 potentially granted only to students with substantial previous course work in investments or cfa level 2 or above. previous work experience related to investments and previous coursework in corporate finance do not satisfy the prerequisite for 35000.   please email my assistant
+jessica henderson with waiver requests.  cannot enroll in busn 35200 if busn 20410 taken previously.restrictionsno non-booth studentsmaterialsberk and demarzo, corporate finance (only textbook, do not need the kit); electronic course materials will be posted in canvas. the course description and class schedule will also be posted in canvas.resourcescanvas site availablegradesbased on cases, a midterm examination (optional), a final examination, and class participation. cannot be taken pass/fail. this course is not open to non-booth students. no auditors.gradesgraded homework assignmentsgraded attendance/participationassessment & testingoptional midtermfinal exam (in class)restrictionsno pass/fail gradesno auditorssyllabus  schedulespring 2021section: 35200-01meeting day/time: tbdlocation: tbdspring 2021section: 35200-02meeting day/time: tbdlocation: tbdspring 2021section: 35200-82meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: september 12 2017  nelson, scott contentthe purpose of this course is to provide you with an understanding of major decisions made by corporate financial managers and to familiarize you with the tools used to make these decisions. the first part of the course covers methods used to value investment opportunities. particular attention is given to discounted cash flow valuation, including the methods of weighted average cost of capital (wacc) and adjusted present value (apv). the second part of the course focuses on issues of corporate financial structure. the focus will be on the choice of financing through equity, debt and other types of securities and on payout policies through dividends. specialized topics, such as mergers and acquisitions, corporate hedging, bankruptcy, and real options will be covered as time permits.formatlecturesdiscussioncase studiesprerequisitesbusiness 30000, 33001, 35000 (strict, cannot be taken concurrently), and 41000 or 41100. waivers for 35000 potentially granted only to students with substantial previous coursework in investments or cfa level 2 or above. previous work experience related to investments and previous coursework in corporate finance do not satisfy the prerequisite for 35000. cannot enroll in busn 35200 if busn 20410 taken previously.restrictionsstrict prerequisitematerialsberk and demarzo, corporate finance (only textbook, do not need the kit); electronic course materials will be posted in canvas. the course description and class schedule will also be posted in canvas.resourcescanvas site availablegradesbased on cases, a midterm examination (optional), a final examination, and class participation. cannot be taken pass/fail.  no auditors.gradesallow provisional grades / early final grades (for joint degree and non-booth students only)graded homework assignmentsgraded attendance/participationassessment & testingoptional midtermfinal exam (take home)restrictionsno pass/fail gradesno auditorssyllabus  scheduleautumn 2020section: 35200-01w 8:30am-11:30amgleacher centerthe goldman sachs & co. lecture hall-gc400dual modalityautumn 2020section: 35200-02w 1:30pm-4:30pmgleacher centerthe goldman sachs & co. lecture hall-gc400dual modalityautumn 2020section: 35200-81w 6:00pm-9:00pmgleacher centerthe goldman sachs & co. lecture hall-gc400dual modalitydescription and/or course criteria last updated: july 15 2020  noel, pascal contentthe purpose of this course is to provide you with an understanding of major decisions made by corporate financial managers and to familiarize you with the tools used to make these decisions. the first part of the course covers methods used to value investment opportunities. particular attention is given to discounted cash flow valuation, including the methods of weighted average cost of capital (wacc) and adjusted present value (apv). the second part of the course focuses on issues of corporate financial structure. the focus will be on the choice of financing through equity, debt and other types of securities and on payout policies through dividends. specialized topics, such as mergers and acquisitions, corporate hedging, bankruptcy, and real options will be covered as time permits.formatlecturesdiscussioncase studiesprerequisitesbusiness 30000, 33001, 35000 (strict), and 41000 (or 41100). waivers for 35000 potentially granted only to students with substantial previous course work in investments or cfa level 2 or above. previous work experience related to investments and previous coursework in corporate finance do not satisfy the prerequisite for 35000.  cannot enroll in busn 35200 if busn 20410 taken previously.materialsberk and demarzo, corpor
+
+
+course detail
+
+
+
+
+
+international corporate finance (35210)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  rajan, raghuramrajan, raghuram contentthis course will explore the challenges of corporate finance and investment in a more integrated global economy.  how should one optimally organize the location of production, control, and financing?  what kinds of new concerns emerge when the whole world, rather than just one's domestic economy, become the arena of decision making?  how does decision making depend on the environment one is doing business in? most students will see this as an alternative to the case course in corporate finance (35201), but some could see it as a complement.formatdiscussioncase studiesethics discussion/componentprerequisitesbusiness 35200: strict (can be substituted by 35201, 30130, 34101, or 35902).materialsthe course will be based on a set of readings and cases.resourcescanvas site availablegradesgrades will be based on class participation, case-write-ups, and an exam.  no auditors.  no early final grades.gradesgraded homework assignmentsgraded attendance/participationassessment & testingfinal exam (take home)restrictionsno auditorssyllabus  schedulewinter 2021section: 35210-01meeting day/time: tbdlocation: tbdwinter 2021section: 35210-81meeting day/time: tbdlocation: tbdwinter 2021section: 35210-85meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: november 04 2019  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+emerging markets finance and entrepreneurship (35213)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  colonnelli, emanuelecolonnelli, emanuele contentemerging markets (ems) have recently become major contributors to global economic growth as well as sources of risk and uncertainty with international ramifications.   this course offers an overview of the main issues faced by entrepreneurs and investors operating in ems, and provides specific tools that are most fitting to students who want to pursue a career in firms, or start their own business, in growth markets outside the u.s. students interested in private equity (pe) and venture capital (vc) in ems will find the class especially relevant. the first part of the course focuses on doing business in ems. we introduce the political and economic uncertainties that characterize these economies by studying the non-market factors and institutional frictions that influence private sector behavior. to succeed in ems, firms and investors must be able to assess factors such as the risks posed by weak legal systems that limit the enforceability of contracts, political instability, and corruption. the goal of this first part is not to become experts on particular countries or regions but rather to train ourselves in the use of a framework and principles that can be applied to evaluate business opportunities across many countries, markets, and sectors. in the first part of the course you will start developing a group entrepreneurship project idea of your choice. the second part of the course focuses on investing in entrepreneurs and firms in ems. we will place a strong emphasis on pe, and specifically vc and growth equity deals in ems, which are some of the fastest growing asset classes in the world. after introducing the basic concepts and frameworks in the early stage investing landscape, we will analyze several recent case studies covering deal sourcing and structuring, valuation, operational value creation, and exit strategies. we will also discuss impact investing and the role of government in financing high-growth entrepreneurship. this second part of the course ends with a final group entrepreneurship project where you will have the opportunity to develop a business plan and/or an investment thesis that could realistically be implemented in an em of your choice.formatlecturesdiscussioncase studiesgroup projectsgroup presentationsmaterialslecture notes, cases, and other required readings (articles, academic papers, book chapters) will be posted on canvas. the course description and class schedule will also be posted on canvas.resourcescanvas site availablegradesbased on class participation, cases, a midterm exam, and a final take-home case. no auditors. cannot be taken pass/fail.gradesgraded homework assignmentsgraded attendance/participationassessment & testingmidtermfinal exam (take home)restrictionsno pass/fail gradesno auditorssyllabus  schedulespring 2021section: 35213-01meeting day/time: tbdlocation: tbdspring 2021section: 35213-81meeting day/time: tbdlocation: tbdspring 2021section: 35213-85meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: july 15 2020  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+behavioral and institutional finance (35215)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  vishny, robertvishny, robert contentthis is an advanced course covering a variety of special topics.  these topics should include:        
+understanding financial crises and the role of banks; investor sentiment, anomalies, and market efficiency; the money management business and the inherent limitations of professional arbitrage; the role of cross-country institutional differences in explaining differences in financial markets and access to finance; finance and rent-seeking:  are financial people overpaid?; implications of asset price volatility for corporate finance, including merger waves and financial innovation.formatlecturesdiscussioncase studiesprerequisitesbus 35000 and 35200 or equivalent.materialsselected readings.resourcescanvas site availablegradesbased on class participation, a short paper, and a longer final paper.gradesgraded attendance/participationrestrictionsno pass/fail gradesno auditorssyllabus  schedulewinter 2021section: 35215-01meeting day/time: tbdlocation: tbdwinter 2021section: 35215-81meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: june  2010  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+seminar:  finance (35600)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  colonnelli, emanuele; weber, michael staffcolonnelli, emanuele  weber, michael contentworkshops in each academic area provide a forum for faculty, phd students, and invited guests to present, discuss, and debate new research.prerequisitesphd students only.  instructor permission required for mba students.  busn 35600=econ 55600restrictionsphd - students onlyno syllabus available scheduleautumn 2020section: 35600-60t 1:20pm-2:50pmlocation: tbdremote-onlydescription and/or course criteria last updated:     staffcontentworkshops in each academic area provide a forum for faculty, phd students, and invited guests to present, discuss, and debate new research.prerequisitesphd students only.  instructor permission required for mba students.  busn 35600=econ 55600restrictionsphd - students onlyno syllabus available schedulewinter 2021section: 35600-60meeting day/time: tbdlocation: tbdspring 2021section: 35600-60meeting day/time: tbdlocation: tbddescription and/or course criteria last updated:     
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+behavioral finance (35906)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  hartzmark, samuelhartzmark, samuel contentthis phd-level course will examine how psychological biases and non-standard preferences interact with traditional topics in corporate finance and asset pricing. we will survey recent research on biases in individual decision-making, the predictability of security returns, and the practical limits to arbitrage. this class has an empirical orientation and will focus on analyzing existing evidence as well as working directly with financial data. the objective of the course is (1) to familiarize students with the foundations and recent developments of research in behavioral finance, and (2) to help students develop research ideas and quantitative skills, which can be used to write a successful phd dissertation.formatlecturesdiscussionprerequisitesbusiness 35901 (theory of financial decisions i). students should also have some phd level background in econometrics and be familiar with applied data analysis. phd students only: strict.  busn 35906=econ 41150restrictionsphd - students onlymaterialslecture notes and assigned readings of research papers.gradesno pass/fail grades.  no auditors.  will provide provisional grades for non-booth and joint students.gradesgraded homework assignmentsrestrictionsno pass/fail gradesno auditorsno syllabus available schedulespring 2021section: 35906-50meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: february 18 2019  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+research projects: finance (35908)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  fama, eugenefama, eugene contentthis is a research course for m.b.a. and ph.d. students.  the course requirement is a research paper, due at the end of the quarter.  the prerequisites are (i) my approval of the research topic, (ii) my judgment that the student has sufficient background to complete the project, and (iii) the topic is in my area of interest and expertise, so i can be helpful in seeing the paper to completion.  paper topics in finance and economics are most likely to meet these criteria.  detailed original cases studies, or other types of applications, may be acceptable for m.b.a. students.  projects can be carried out independently or in groups of up to three students.  there is one class session per week, where verbal progress reports will be given, and discussed by the rest of the class.formatdiscussiongroup projectsgroup presentationsprerequisitesconsent of instructor: strict.gradesthe course grade is based primarily on the final paper, but class participation is also considered.  cannot be taken pass/fail.  no auditors.  no provisional grades.restrictionsno pass/fail gradesno auditorsno syllabus available schedulespring 2021section: 35908-50meeting day/time: tbdlocation: tbddescription and/or course criteria last updated: february 18 2019  
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+
+
+course detail
+
+
+
+
+
+new developments in public finance (35916)
+
+
+course evaluations  
+
+
+
+
+
+
+
+course description by faculty
+
+
+
+  zwick, ericzwick, eric  no course description available schedulespring 2021section: 35916-50meeting day/time: tbdlocation: tbd
+
+
+
+
+
+
+                 
+
+                
+
+                 
+
+                
+
+                 
+
+                
+
+                  
+
+                
+
+                 
+
+                
+
+
+
+
+
+
+advanced valuation --- this is a course on real options:  the use of option theory to determine the value of flexibility, patents, technological innovation, learning by doing, marketing surveys, the potential to franchise or expand operations and other issues relevant to corporate strategy.  specific applications treated in detail:  valuation of movie rights and patents, manufacturing facilities, and r&d.  the course also conducts a detailed valuation of operations like power plants and refineries whose inputs, outputs or both are traded in futures markets.  the course moves beyond black-scholes and the binomial option pricing model to various extensions required to fit real options applications.  these extensions are also used widely in the valuation of advanced financial options.  the course involves considerable spreadsheet work and shows how relatively simple spreadsheets can be used to implement the binomial option pricing model.
+theoretical models in finance i --- this is the first course in a two-part sequence in theoretical models in finance, the second course being fin 872. the set of topics covered will change from year to year. potential topics across the two courses include (i) applications of asymmetric information (ii) trading and price formation and (iii) continuous time models in finance.
+behavioral finance --- this course will survey developments in behavioral finance. a great deal of recent research has focused on the behavior of individual investors and how that behavior deviates from the way in which individuals have been modeled by economists. the findings are useful for individual investors who want to avoid making mistakes. they are also useful for future manages that will supervise traders and for those that would like to trade opposite the investors and biases. finally, they can be useful for students that want to develop new finance technologies that help people avoid behavioral biases. beyond covering behavioral finance, the course will discuss some strategies to succeed in a world where some traders have biases. since this course is a professional capstone course, students will be expected to engage in behavioral finance research and submit a research paper at the end of the semester.
+big data in finance --- this course aims to facilitate the acquisition of skills that are useful in quantitative asset management. the course starts from basic portfolio theory and then reviews basic quantitative investment strategies (such as value, growth, momentum, and carry strategies). students then develop, back-test, and evaluate trading strategies  in a portfolio context, both in a domestic and an international context, as well as in a multi-asset framework covering equities, bonds, and commodities. finally, we cover the real-time use of non-standard data sources.
+capital markets and investment strategy --- capital markets and investment strategies is a course that covers the fundamentals of making sound investment decisions using modern finance theory.  the course focuses primarily on equity securities.  our ultimate goal in the class is constructing a portfolio of equities that delivers the best possible expected return given the risk inherent in holding the portfolio.  to that end, we will discuss ideas about how to find investment opportunities, how to assess the rewards and risks of these opportunities, how best to hold these assets in a portfolio, and how to gauge the difference in returns we should expect to receive from this portfolio from those we actually earn.prior to winter 2015, this course was offered as fin 308.
+
+capital markets and investment strategy --- this course covers portfolio analysis, asset pricing models, and investment strategies.  it uses both the lecture and the case method of instruction to develop a practical understanding of some of the more important financial instruments and markets.  security valuation and management of investment strategies are major themes present throughout the course.  a fundamental objective of the course is to enable students to gain a robust familiarity with approaches that can be adapted to analysis of broad classes of financial assets and markets.  such skills are indispensable to investment analysis in an economic environment characterized by an unprecedented amount of financial innovation, both in the creation of new securities and in the development and evolution of financial institutions.
+challenges in emerging market finance: argentina as a case study --- this course will provide students with an in-depth look at finance in emerging markets through the lens of the experience of argentina. during our three weeks in country, students will review and/or learn international finance concepts and tools, with an emphasis on emerging markets. we will also learn from in-country faculty about the history and economic history of argentina. finally, we will meet with various stakeholders in the argentina economy, including corporations, financial institutions, and government officials. students will apply the tools of finance and development to problems that argentine companies face in accessing markets and obtaining finance.
+introduction to commercial read estate finance --- this course is an introductory commercial real estate finance course, designed to pick up on the specific fundamentals covered in finance 320 along with applying the time value of money concepts, ratios and the discounted cash flow valuation methods from finance 300.  a new excel spreadsheet will be introduced at each class session to coincide with the text and lecture topics.  several guest speakers will complement the theoretical aspects of financing, development, and risk and return with updates on the current commercial real estate marketplace.  much of the class is interactive via case studies related to class topics.
+theoretical models in finance ii --- this is the second course in a two-part sequence on theoretical models in finance, the second course being fin 865. the set of topics covered will change from year to year. potential topics across the two courses include (i) applications of asymmetric information (ii) trading and price formation and (iii) continuous time models in finance.new title/description for fall 2019 -
+course title: trading and price information
+course description: a vibrant research (variously labeled as financial markets, information economics and markets, or, more narrowly, market microstructure) analyzes, both theoretically and empirically, the impact of important (yet often ignored) trading frictions on the process of price formation in domestic and international financial markets (for equity, government and corporate bonds, currency, and real estate, among others). the main goal of this ph.d. course is to motivate students to pursue theoretical and empirical research in this exciting area of financial economics.
+
+corporate finance --- the purpose of the course is to provide a background for understanding the determinants of corporate financial policy and introduce students to current research in finance.  the course complements the material in ba 855.  the boundaries of the firm, its financial structure and issues of corporate control are discussed by drawing upon theories of agency, incomplete contracting, and property rights.  we cover strategic issues in the market for corporate control, bankruptcy and reorganizations and optimal contracts as applied to the design of securities.  we will also discuss issues such as the interaction between product market competition and financial policy.
+corporate financial policy --- this is an advanced corporate finance course with an emphasis on debt and equity management, security issuance, and distribution policy. topics include descriptions of types of debt and equity, tradeoffs in the choice of an optimal capital structure; the role of capital structure in competitive strategy; the design of capital structure and securities to control information problems and limit conflicts of interest between different classes of security holders; procedures and costs of issuing securities including initial public offerings, and the determinants of optimal payout policy. the course is intended for those with career objectives in financial management, the corporate finance aspects of investment banking, or general management.
+corporate financial strategy --- this is the capstone course among corporate finance courses. it deals with the co-determination of financial policy and business strategy.   the course is divided in three. the first segment focuses on the issues in designing a financial strategy for companies that are growing and expanding rapidly after their ipo. the second segment studies the challenges in designing a financial strategy and a major corporate restructuring at the same time. it includes divestitures, asset sales, going private, and bankruptcy, among other strategies. the final segment focuses on business strategies that are made possible by innovative corporate financial engineering. most cases discussed are about fast growing companies, companies that face a rapidly changing environment, or companies with drastic restructuring needs.
+corporate financing decisions --- this course develops the conceptual foundation for making corporate financing decisions. capital structure theory is explained in detail with an in-depth analysis of market imperfections such as taxes, cost of financial distress, agency and informational issues. the next portion of the course covers different securities used to raise external capital with an emphasis on the institutional aspects of acquiring capital (initial public offerings, seasoned equity offerings, public debt, convertible debt, private equity & venture capital). the causes and effects of financial distress and the bankruptcy process are explained. payout policy and different payout strategies (dividends versus stock repurchase) are discussed. the course ends with a brief discussion of risk management. throughout the course, financial theory will be integrated with the use of specific case studies.
+corporate investment decisions --- this course focuses on analysis of corporate investment decisions. since the emphasis is on application of the concepts learnt in the core courses, the course is case-oriented. the course begins with the valuation tools of financing statement analysis, financial forecasting, and cash flow estimation and then shows how to estimate of cost of capital. the major emphasis of the course is valuation in different contexts such as resource allocation, mergers and acquisitions, and cross-border acquisitions. the course provides the student an opportunity to learn and practice spreadsheet skills. the course also provides an overview of working capital management.*prior to fall 2014, fin 415 was called fin 314.
+
+dissertation - candidacy --- dissertation research at the candidacy stage.
+dissertation - precandidacy --- dissertation research at the precandidacy stage.
+dynamic models and structural estimation in corporate finance --- this course seeks to achieve three equally important goals. first, it is intended to expose students to key papers in the structural corporate finance literature. second, the course is designed to strengthen students' ability to dissect, digest, and critique academic research. third, the course is intended to introduce students to the methods used to solve and estimate the parameters of dynamic models.
+empirical methodology in finance --- this seminar course will expose graduate students to the more commonly used empirical methods in financial literature.  as this is an application-oriented course, it is assumed that students have had exposure to both finance and econometrics at the graduate level.  this course will study the important applications of empirical methodology to financial problems over the past two decades.  the course will not deal with either finance or econometrics, but important applications of the latter in testing basic financial models.
+energy project finance --- the energy industry is undergoing its biggest transition since the widespread adoption of electricity. a convergence of factors - global warming, new technologies, resource constraints, shifting global demographics, and unpredictable global policies - has put in motion what will be the largest industrial transition in history.
+
+harnessing and using energy productively is enormously capital intensive. deploying capital into energy projects is complex, requiring investors to manage the diverse range of policy mechanisms, identify or develop the necessary supporting infrastructure and understand volatile markets and politics.  
+
+the 6-week energy finance course will examine the economic drivers for energy investments and the fundamentals of financing energy projects. it will also cover traditional financial modeling tools used in the oil and gas industry, project finance models popular in the renewable energy industry, and new innovative financial mechanisms used by corporations involved in energy efficiency and demand response. every week a guest speaker from the energy industry will lead students through a new financial model used to address a real world energy issue, allowing students to fine tune their analytical tools through interaction with professionals who use these tools on a regular basis. it will include three excel based modules on modeling energy projects.the 6-week energy finance course will examine the economic drivers for energy investments and the fundamentals of financing energy projects. it will also cover traditional financial modeling tools used in the oil and gas industry, project finance models popular in the renewable energy industry, and new innovative financial mechanisms used by corporations involved in energy efficiency and demand response. every week a guest speaker from the energy industry will lead students through a new financial model used to address a real world energy issue, allowing students to fine tune their analytical tools through interaction with professionals who use these tools on a regular basis. it will include three excel based modules on modeling energy projects.
+
+entrepreneurial finance --- this course is open to all bba students and presents the fundamentals of venture capital and private equity finance.  it is focused on financing startup and early stage, technology-based firms, later stage investment and buyouts.  the course covers venture capital and private equity market structure and institutional arrangements and the application of financial theory and methods in a venture capital and private equity setting.  four main aspects of venture capital and private equity are covered:  valuation, deal structuring, governance, and harvesting.  "live" case studies are used in demonstrate the practical, hands-on application of techniques following their development in class.prior to winter 2015, this course was offered as fin 325.
+
+finance and the sustainable enterprise --- this course deals with unique financial valuation and management issues faced by a sustainable business.  we will study the efficacy of traditional and modern financial methods in enabling corporations to develop and implement sustainable strategies.
+financial analysis --- this course is primarily devoted to fundamentals of financial analysis as applied to both corporate finance and financial markets.  on the corporate side, the course deals with capital budgeting in great detail.  capital budgeting criteria (npv, irr) and cash flow estimation are discussed. the concept of risk is then introduced and the capm is used to derive cost of equity and then, the weighted average cost of capital. the course also provides as introductory treatment of the effects of financing on capital budgeting decisions.  on the financial markets side, the course introduces the student to the concepts of competitive capital markets and market efficiency. the workings of the financial markets are explored using the trading room. the principles of equity valuation are also covered. finally, term structure and bond valuation are discussed.
+financial derivatives in corporate finance:  managing risk and creating value --- financial derivatives play several important role in corporate finance:  they can be used to hedge risks, they are the building blocks for analysis of corporate credit risk, and they serve as analytical tools to value corporate investment projects that have built-in flexibility, e.g., due to a multi-stage structure or timing options.  in this course, we introduce the core principles that underlie the valuation and use of derivatives such as futures, swaps, options, and credit derivatives.  we apply these ideas to a number of problems including hedging of interest-rate, foreign exchange, and commodity price risk, real options in investment decisions, and transfer of credit risk.  with a focus on corporate value creation, we pay particular attention to potential misuses of derivatives and unintended consequences of corporate financial engineering in the face of financial market imperfections.
+financial management --- this course is an introduction to the principles of financial decision-making.  topics include (i) present value, focusing on valuation of projects and financial securities; (ii) portfolio theory and the capm, which highlight the risk-return trade-off; (iii) determining the cost of capital for a project; (iv) principles of capital structure.
